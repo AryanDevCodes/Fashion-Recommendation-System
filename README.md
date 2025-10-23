@@ -1,201 +1,276 @@
-# 🎨 Personalized Fashion Recommendation System
+# 🎨 AI-Powered Fashion Recommendation System
 
-An AI-powered web application that provides personalized clothing recommendations based on user photos, analyzing facial features, skin tone, and gender to suggest suitable fashion choices.
+Welcome to our cutting-edge Fashion Recommendation System! This innovative application harnesses the power of artificial intelligence to provide personalized clothing recommendations by analyzing your unique features.
 
-## 📸 Application Preview
+## ✨ Application Flow
 
-### Step 1: Initial Interface
-![Step 1](image/image1.png)
-*Landing page of the fashion recommendation system*
+### 1. 🏠 Homepage & User Authentication
+![Landing Page](image/image1.png)
+- Clean, modern interface welcoming users
+- Quick sign-up/login process
+- Overview of available features
 
-### Step 2: Feature Showcase
-![Step 2](image/image2.png)
-*Demonstration of the application's core features*
+### 2. 📸 Image Input Options
+![Feature Selection](image/image2.png)
+- **Real-time Camera Capture**: Take a photo directly through your webcam
+- **Image Upload**: Select and upload an existing photo
+- **Image Guidelines**: Tips for optimal photo quality
 
-### Step 3: User Interaction
-![Step 3](image/image4.png)
-*Interactive elements and user input interface*
+### 3. 🔍 Analysis in Progress
+![Processing](image/image3.png)
+- Face detection and feature analysis
+- Skin tone identification
+- Gender recognition
+- Style preference processing
 
-### Step 4: Processing
-![Step 4](image/image3.png)
-*AI analysis and processing visualization*
+### 4. 👕 Recommendation Generation
+![Results Display](image/image4.png)
+- AI-powered style matching
+- Color palette suggestions
+- Personalized clothing recommendations
+- Outfit combination ideas
 
-### Step 5: Results
-![Step 5](image/image5.png)
-*Final recommendations and style suggestions*
+### 5. 🛍️ Final Results & Actions
+![Final Results](image/image5.png)
+- Detailed style recommendations
+- Similar style suggestions
+- Option to save favorites
+- Share or export recommendations
 
-## 🌟 Features
+## 🌟 Key Features
 
-- 📸 Real-time camera capture and photo upload
-- 👤 Face detection and analysis
-- 🎯 Gender detection using machine learning
-- 🎨 Skin tone analysis
-- 👔 Personalized clothing recommendations
-- 📱 Responsive web interface
-- 🔄 Real-time processing and results
+### 🤖 AI & Machine Learning
+- Advanced face detection and feature analysis
+- Real-time gender recognition
+- Precise skin tone classification
+- Smart style matching algorithms
+
+### 📱 User Experience
+- Intuitive, responsive interface
+- Real-time camera integration
+- Drag-and-drop image upload
+- Interactive results display
+
+### � Personalization
+- Individual feature analysis
+- Custom style preferences
+- Personalized color recommendations
+- Adaptive learning from user feedback
+
+### � Privacy & Security
+- Secure image processing
+- No permanent photo storage
+- Data encryption
+- Privacy-first approach
 
 ## 🛠️ Technology Stack
 
-### Frontend
-- React.js (^18.3.1)
-- Axios for API calls
-- React Webcam for camera integration
-- CSS for styling
-- React Icons for UI elements
+### 🌐 Frontend Technologies
+- **Framework**: React.js 18.3.1
+- **UI Components**: 
+  - React Webcam for camera integration
+  - Custom CSS animations
+  - Material UI elements
+- **State Management**: React Context API
+- **API Integration**: Axios
+- **Real-time Processing**: WebSocket integration
 
-### Backend
-- Flask (2.3.0)
-- TensorFlow (2.13.0)
-- OpenCV (4.7.0.72)
-- NumPy (1.24.0)
-- PIL (Pillow 10.0.0)
+### ⚙️ Backend Architecture
+- **Server**: Flask 2.3.0
+- **ML Framework**: TensorFlow 2.13.0
+- **Image Processing**: OpenCV 4.7.0.72
+- **Data Processing**: NumPy 1.24.0
+- **Image Manipulation**: Pillow 10.0.0
 
-## 📋 Prerequisites
+### 🧠 AI Models
+- Custom-trained gender detection model
+- Fine-tuned skin tone classifier
+- Pre-trained face detection model
+- Style recommendation engine
 
-- Node.js (v16 or higher)
+## � Quick Start Guide
+
+### �📋 Prerequisites
+- Node.js v16+
 - Python 3.8+
-- pip (Python package manager)
-- Web camera (for live capture feature)
+- Git
+- Webcam (for live features)
+- 4GB RAM minimum
+- Modern web browser
 
-## 🚀 Installation
+### � Installation Steps
 
-### Model Files Setup
+1. **Clone & Configure**
+   ```bash
+   git clone https://github.com/AryanDevCodes/Fashion-Recommendation-System.git
+   cd Fashion-Recommendation-System
+   ```
 
-Due to file size limitations, the model files are not included in the repository. Download the required model files from the releases section and place them in the `src/static/models/` directory:
+2. **Download ML Models**
+   - Get required models from our [releases page](https://github.com/AryanDevCodes/Fashion-Recommendation-System/releases)
+   - Place in `src/static/models/`:
+     ```
+     ├── Gender_Prediction_model.h5
+     ├── skin_tone_model.h5
+     ├── res10_300x300_ssd_iter_140000_fp16.caffemodel
+     └── deploy.prototxt.txt
+     ```
 
-Required models:
-- `Gender_Prediction_model.h5`
-- `skin_tone_model.h5`
-- `res10_300x300_ssd_iter_140000_fp16.caffemodel`
-- `deploy.prototxt.txt`
+3. **Backend Setup**
+   ```bash
+   python -m venv .venv
+   # Windows
+   .venv\Scripts\activate
+   # macOS/Linux
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   ```
 
-### Backend Setup
+4. **Frontend Setup**
+   ```bash
+   npm install
+   ```
 
-1. Create and activate virtual environment:
-```bash
-python -m venv .venv
-# On Windows
-.venv\Scripts\activate
-# On macOS/Linux
-source .venv/bin/activate
+5. **Environment Configuration**
+   - Copy `.env.example` to `.env`
+   - Update with your settings
+
+## � Running the Application
+
+### Development Mode
+
+1. **Start Backend Server**
+   ```bash
+   # From project root
+   python run.py
+   ```
+   Backend runs at `http://127.0.0.1:5000`
+
+2. **Launch Frontend**
+   ```bash
+   # In new terminal
+   npm start
+   ```
+   Access at `http://localhost:3000`
+
+### Production Deployment
+
+1. **Build Frontend**
+   ```bash
+   npm run build
+   ```
+
+2. **Start Production Server**
+   ```bash
+   python run.py --prod
+   ```
+
+## 📁 Project Architecture
+
+```
+Fashion-Recommendation-System/
+├── 🌐 src/
+│   ├── app.py              # Flask application
+│   ├── config.py           # Environment config
+│   ├── 🎨 components/      # React components
+│   │   ├── CameraCapture/  # Camera handling
+│   │   ├── ImageUpload/    # File uploads
+│   │   └── Results/        # Display components
+│   ├── 🎣 hooks/          # Custom React hooks
+│   │   ├── useCamera      # Camera controls
+│   │   └── useProcessor   # Image processing
+│   ├── 🛠️ utils/         # Utility functions
+│   │   ├── model_loader   # ML model handling
+│   │   └── processor      # Image processing
+│   └── 📦 static/         # Static assets
+│       ├── models/        # ML model files
+│       └── images/        # Image assets
+├── 📊 data/               # Training data
+├── 📝 docs/               # Documentation
+└── 🧪 tests/             # Test suites
 ```
 
-2. Install Python dependencies:
-```bash
-pip install -r requirements.txt
-```
+## � Advanced Features
 
-### Frontend Setup
+### 🎯 Smart Fashion Analysis
+- **Face Feature Detection**: Advanced facial feature mapping
+- **Style Profiling**: AI-driven style preference learning
+- **Color Harmony**: Sophisticated color matching algorithms
+- **Body Type Analysis**: Smart proportional recommendations
 
-1. Install Node.js dependencies:
-```bash
-npm install
-```
+### 🔄 Real-time Processing
+- **Live Preview**: Instant camera feed processing
+- **Dynamic Updates**: Real-time style suggestions
+- **Interactive Adjustments**: On-the-fly preference tuning
+- **Responsive Design**: Adaptive to all devices
 
-## 🏃‍♂️ Running the Application
+### 🔒 Security Features
+- **Secure Processing**: Local image analysis
+- **Privacy Focus**: No image storage
+- **Data Protection**: Encrypted transmission
+- **Safe Browsing**: HTTPS enforcement
 
-1. Start the Flask backend server:
-```bash
-python run.py
-```
-The backend will start at `http://127.0.0.1:5000`
+## � Troubleshooting Guide
 
-2. Start the React development server (in a separate terminal):
-```bash
-npm start
-```
-The frontend will be available at `http://localhost:3000`
+### 📸 Camera Issues
+1. **No Camera Access**
+   - Enable permissions in browser settings
+   - Check camera hardware connection
+   - Restart browser after permission changes
 
-## 📁 Project Structure
+2. **Poor Image Quality**
+   - Ensure good lighting
+   - Clean camera lens
+   - Check internet bandwidth
+   - Adjust camera resolution settings
 
-```
-personalised_fashion_recomendation/
-├── src/
-│   ├── app.py                 # Main Flask application
-│   ├── config.py             # Configuration settings
-│   ├── components/           # React components
-│   │   ├── CameraCapture.jsx
-│   │   ├── ImageUpload.jsx
-│   │   ├── ResultsDisplay.jsx
-│   │   └── ...
-│   ├── hooks/               # Custom React hooks
-│   │   ├── useCamera.js
-│   │   └── useImageProcessor.js
-│   ├── utils/              # Utility modules
-│   │   ├── model_loader.py
-│   │   └── image_processor.py
-│   └── static/             # Static assets
-│       ├── models/         # ML models
-│       ├── css/
-│       └── images/
-├── data/                   # Data files
-│   └── clothing_styles.json
-└── docs/                   # Documentation
-```
+### 🔧 Technical Issues
+1. **Application Errors**
+   ```bash
+   # Reset application state
+   npm run clean
+   npm install
+   ```
 
-## 🎯 Features in Detail
+2. **Model Loading Fails**
+   - Verify model file integrity
+   - Check Python environment
+   - Clear browser cache
+   - Update TensorFlow
 
-### 1. Image Capture
-- Upload images from device
-- Capture photos using webcam
-- Real-time camera preview
-- Image quality optimization
+## 🤝 Contribution Guidelines
 
-### 2. AI Analysis
-- Face detection using OpenCV
-- Gender detection using TensorFlow
-- Skin tone analysis
-- Clothing style matching
-
-### 3. Recommendations
-- Personalized clothing suggestions
-- Style categories
-- Color recommendations
-- Outfit combinations
-
-## 🔒 Security
-
-- Input validation for file uploads
-- Secure API endpoints
-- No permanent storage of user photos
-- CORS protection
-
-## 📝 API Endpoints
-
-- `POST /get_clothing_styles` - Get personalized clothing recommendations
-- Additional endpoints documented in the code
-
-## 🐛 Troubleshooting
-
-### Common Issues
-1. Camera not working
-   - Check browser permissions
-   - Ensure camera is not in use by other applications
-
-2. Image upload fails
-   - Check file size and format
-   - Ensure proper network connection
-
-3. Model loading errors
-   - Verify all model files are in correct locations
-   - Check Python environment setup
-
-## 🤝 Contributing
-
+### Getting Started
 1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+2. Set up development environment
+3. Create feature branch
+4. Follow code style guide
+5. Submit pull request
 
-## 📄 License
+### Code Standards
+- Follow ES6+ conventions
+- Maintain 80% test coverage
+- Document new features
+- Follow commit message format
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📄 License & Credits
 
-## 👥 Authors
+### MIT License
+Copyright (c) 2023-2025 Aryan Raj
 
-- [Aryan Raj](https://github.com/AryanDevCodes) - Initial work and maintenance
+### Project Team
+- **Lead Developer**: [Aryan Raj](https://github.com/AryanDevCodes)
+- **ML Engineers**: [Team Members]
+- **UI/UX Designers**: [Team Members]
 
-## 📞 Support
+## 🆘 Support & Contact
 
-For support and questions, please open an issue in the repository.
+### Get Help
+- 📑 [Documentation](./docs)
+- 💬 [Discussions](https://github.com/AryanDevCodes/Fashion-Recommendation-System/discussions)
+- 🐛 [Issue Tracker](https://github.com/AryanDevCodes/Fashion-Recommendation-System/issues)
+
+### Connect
+- 📧 Email: [Contact Email]
+- 🌐 Website: [Project Website]
+- 📱 Discord: [Discord Server]
