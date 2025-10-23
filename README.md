@@ -17,7 +17,7 @@ An AI-powered web application that provides personalized clothing recommendation
 *Interactive elements and user input interface*
 
 ### Step 4: Processing
-![Step 4](image/image4.png)
+![Step 4](image/image4.1.png)
 *AI analysis and processing visualization*
 
 ### Step 5: Results
