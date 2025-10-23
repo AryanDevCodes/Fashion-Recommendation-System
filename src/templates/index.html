@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fashion Recommendation</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+
+<body>
+  <!-- Loading Overlay and Spinner -->
+  <div class="loading-overlay" id="loadingOverlay"></div>
+  <div class="loading-spinner" id="loadingSpinner">
+    <div class="spinner"></div>
+    <div class="loading-text">Processing image...</div>
+  </div>
+
+  <img class="image-background" src="{{ url_for('static', filename='images/background.jpeg') }}" alt="Background Image">
+
+  <div class="section-container">
+    <div class="section">
+      <h1 class="h1">PERSONALIZED AI FASHION RECOMMENDATION</h1>
+      <div id="upload-section-container">
+        <div id="upload-section">
+          <input type="file" id="file-input" accept="image/*">
+          <button id="upload-btn" class="upload-items"><i class="fas fa-upload icon"></i>Upload Image</button>
+          <button id="start-camera-btn" class="upload-items"><i class="fas fa-camera icon"></i>Start Camera</button>
+
+          <div id="camera-buttons" style="display: none;">
+            <button id="capture-btn" class="upload-items"><i class="fas fa-camera icon"></i>Capture Image</button>
+            <button id="upload-captured-btn" class="upload-items"><i class="fas fa-check icon"></i>Upload Captured Image</button>
+          </div>
+
+          <video id="live-video" style="display: none;" autoplay playsinline></video>
+          <img id="image-preview" alt="Image Preview" style="display: none;">
+          <button id="back-btn" style="display: none;"><i class="fas fa-arrow-left icon"></i>Back</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="section">
+      <div id="result-section-container" style="display: none;">
+        <div id="result-section">
+          <h2>Results</h2>
+          <img id="detected-face-image" alt="Detected Face Image">
+          <p class="result-attribute"><strong>Gender:</strong> <span id="gender" class="result-attribute"></span> <i class="fas fa-venus-mars icon"></i></p>
+          <p class="result-attribute"><strong>Skin Tone:</strong> <span id="skin-tone" class="result-attribute"></span>
+            <i class="fas fa-palette icon"></i>
+          </p>
+          <h3>Recommended Clothing <i class="fas fa-tshirt icon"></i></h3>
+          <div id="clothing-styles" class="clothing-grid"></div>
+          <button id="downloadJsonButton"><i class="fas fa-download icon"></i>Download Clothing Styles</button>
+          <button id="clear-results-btn" style="background-color: #f44336; max-width: 200px;"><i class="fas fa-times icon"></i>Clear Results</button>
+          <p class="error" id="error-message" style="display: none;"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <canvas id="canvas">
+    <video id="video" width="640" height="480" style="display: none;"></video>
+  </canvas>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+
+</html>

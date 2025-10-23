@@ -1,0 +1,2696 @@
+{
+    "Porcelain (Very Fair)": {
+        "Male": [
+            {
+                "item": "Chikan kari kurtas",
+                "fabric": "Cotton, Chikan work",
+                "texture": "Textured, Smooth",
+                "color": "White with pastel blue floral embroidery",
+                "gradient": "Subtle gradient from white to light blue",
+                "traditional_aspect": "Chikan kari, an ancient form of embroidery from Lucknow, is often worn during festive occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478382/output_hubmff.jpg "
+            },
+            {
+                "item": "Pastel-colored silk bandhgalas",
+                "fabric": "Silk, Jacquard",
+                "texture": "Smooth, Rich",
+                "color": "Light lavender, Mint green, Soft peach",
+                "gradient": "Gentle gradient from peach to mint green",
+                "traditional_aspect": "Bandhgalas are formal, royal attire worn for weddings and ceremonial functions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478433/output_l5s9hq.jpg"
+            },
+            {
+                "item": "Embroidered Nehru jackets",
+                "fabric": "Silk, Velvet",
+                "texture": "Luxurious, Soft",
+                "color": "Deep indigo with gold threadwork",
+                "gradient": "Rich gradient from indigo to gold at the edges",
+                "traditional_aspect": "Nehru jackets are worn for formal events, representing modern Indian elegance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478533/output_hxntea.jpg"
+            },
+            {
+                "item": "Cotton sherwanis",
+                "fabric": "Cotton, Silk blend",
+                "texture": "Soft, Structured",
+                "color": "Ivory, Light beige",
+                "gradient": "Soft gradient from ivory to beige",
+                "traditional_aspect": "Sherwanis are traditionally worn by grooms and at royal occasions, symbolizing dignity and heritage",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478572/output_a7gtab.jpg"
+            },
+            {
+                "item": "Linen kurtas with light embroidery",
+                "fabric": "Linen, Khadi",
+                "texture": "Crisp, Breathable",
+                "color": "Pale yellow, Light green",
+                "gradient": "Gentle gradient from pale yellow to light green",
+                "traditional_aspect": "Linen and Khadi are popular during warm seasons, representing simplicity and sustainability",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478638/output_wjwjnk.jpg"
+            },
+            {
+                "item": "Brocade kurtas",
+                "fabric": "Brocade, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep red, Gold",
+                "gradient": "Subtle gradient from red to gold",
+                "traditional_aspect": "Brocade kurtas are worn during special occasions, symbolizing wealth and grandeur",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478781/output_xijhoj.jpg"
+            },
+            {
+                "item": "Velvet sherwanis",
+                "fabric": "Velvet, Silk",
+                "texture": "Soft, Luxurious",
+                "color": "Navy blue, Maroon",
+                "gradient": "Rich gradient from navy blue to maroon",
+                "traditional_aspect": "Velvet sherwanis are worn during formal events, representing elegance and sophistication",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478898/output_gy0job.jpg"
+            },
+            {
+                "item": "Chanderi kurtas",
+                "fabric": "Chanderi, Silk",
+                "texture": "Light, Airy",
+                "color": "Pastel pink, Baby blue",
+                "gradient": "Soft gradient from pastel pink to baby blue",
+                "traditional_aspect": "Chanderi kurtas are popular during summer, representing simplicity and comfort",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478956/output_opmuqb.jpg "
+            },
+            {
+                "item": "Jamdani kurtas",
+                "fabric": "Jamdani, Cotton",
+                "texture": "Light, Breathable",
+                "color": "White, Light gray",
+                "gradient": "Subtle gradient from white to light gray",
+                "traditional_aspect": "Jamdani kurtas are worn during casual occasions, symbolizing simplicity and elegance",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479109/output_xrh9vd.jpg "
+            },
+            {
+                "item": "Tanchoi kurtas",
+                "fabric": "Tanchoi, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep purple, Gold",
+                "gradient": "Rich gradient from purple to gold",
+                "traditional_aspect": "Tanchoi kurtas are worn during special occasions, representing wealth and grandeur",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479189/output_j9uuqw.jpg "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Pastel lehengas",
+                "fabric": "Silk, Georgette",
+                "texture": "Flowing, Soft",
+                "color": "Soft blush pink, Lavender",
+                "gradient": "Peach gradient from light to dark tones",
+                "traditional_aspect": "Pastel lehengas are often worn during weddings or receptions, offering an elegant look",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479328/output_kolzjy.jpg"
+            },
+            {
+                "item": "Light chiffon sarees",
+                "fabric": "Chiffon",
+                "texture": "Soft, Light",
+                "color": "Light lavender with soft floral embroidery",
+                "gradient": "Gradient from lavender to off-white",
+                "traditional_aspect": "Chiffon sarees are lightweight, perfect for summer festivals and casual gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479432/output_b6odju.jpg "
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479505/output_au85gh.jpg"
+            },
+            {
+                "item": "Georgette sarees with mirror work",
+                "fabric": "Georgette, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479565/output_twbgq3.jpg "
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479703/output_h0jp9h.jpg "
+            },
+            {
+                "item": "Kanjeevaram sarees",
+                "fabric": "Kanjeevaram, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep blue, Gold",
+                "gradient": "Subtle gradient from blue to gold",
+                "traditional_aspect": "Kanjeevaram sarees are worn during special occasions, symbolizing wealth and grandeur",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479731/output_me49gd.jpg"
+            },
+            {
+                "item": "Banarasi sarees",
+                "fabric": "Banarasi, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep red, Gold",
+                "gradient": "Rich gradient from red to gold",
+                "traditional_aspect": "Banarasi sarees are worn during formal events, representing elegance and sophistication",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479768/output_ajpdcm.jpg "
+            },
+            {
+                "item": "Chanderi sarees",
+                "fabric": "Chanderi, Silk",
+                "texture": "Light, Airy",
+                "color": "Pastel pink, Baby blue",
+                "gradient": "Soft gradient from pastel pink to baby blue",
+                "traditional_aspect": "Chanderi sarees are popular during summer, representing simplicity and comfort",
+                "img-url": " "
+            },
+            {
+                "item": "Jamdani sarees",
+                "fabric": "Jamdani, Cotton",
+                "texture": "Light, Breathable",
+                "color": "White, Light gray",
+                "gradient": "Subtle gradient from white to light gray",
+                "traditional_aspect": "Jamdani sarees are worn during casual occasions, symbolizing simplicity and elegance",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479839/output_uiryzu.jpg "
+            },
+            {
+                "item": "Tanchoi sarees",
+                "fabric": "Tanchoi, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep purple, Gold",
+                "gradient": "Rich gradient from purple to gold",
+                "traditional_aspect": "Tanchoi sarees are worn during special occasions, representing wealth and grandeur",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479865/output_wfcgb5.jpg "
+            },
+            {
+                "item": "Paithani sarees",
+                "fabric": "Paithani, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep green, Gold",
+                "gradient": "Subtle gradient from green to gold",
+                "traditional_aspect": "Paithani sarees are worn during formal events, representing elegance and sophistication",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733479914/output_evasku.jpg"
+            }
+        ]
+    },
+    "Alabaster (Fair)": {
+        "Male": [
+            {
+                "item": "Cotton kurtas with printed motifs",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Earth tones with floral prints",
+                "gradient": "Earth tones to white gradient",
+                "traditional_aspect": "Cotton kurtas are traditional attire for casual and semi-formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644029/AI%20CLOTHS/lt4cyl95oehq26xzkjjg.jpg"
+            },
+            {
+                "item": "Linen sherwanis",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Soft beige with embroidered patterns",
+                "gradient": "Subtle gradient from beige to white",
+                "traditional_aspect": "Linen sherwanis are comfortable yet elegant options for warm weather events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644164/output_sniikx.jpg"
+            },
+            {
+                "item": "Bright colored silk kurta sets",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Bright red, Emerald green",
+                "gradient": "From red to a golden hue",
+                "traditional_aspect": "Silk kurtas are worn during formal events like weddings and religious festivals",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644300/output_ub3qws.jpg "
+            },
+            {
+                "item": "Printed bandhgalas with motifs",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Printed",
+                "color": "Light blue with intricate gold motifs",
+                "gradient": "Gradient from blue to white",
+                "traditional_aspect": "Bandhgalas are typically worn at weddings or formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644404/output_lxuwrx.jpg "
+            },
+            {
+                "item": "Casual cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Soft green with minimal embroidery",
+                "gradient": "From light green to white",
+                "traditional_aspect": "Casual kurtas are often worn for daily wear and informal occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644467/output_h5lcmp.jpg"
+            },
+            {
+                "item": "Embroidered Nehru jackets",
+                "fabric": "Silk, Velvet",
+                "texture": "Luxurious, Soft",
+                "color": "Deep indigo with gold threadwork",
+                "gradient": "Rich gradient from indigo to gold at the edges",
+                "traditional_aspect": "Nehru jackets are worn for formal events, representing modern Indian elegance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644555/output_yvpzaj.jpg "
+            },
+            {
+                "item": "Woven woolen shawls",
+                "fabric": "Wool",
+                "texture": "Thick, Warm",
+                "color": "Earth tones, Soft grays",
+                "gradient": "Natural gradient from earth tones to soft grays",
+                "traditional_aspect": "Woolen shawls are worn during winter months, symbolizing warmth and comfort",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644660/output_rgzhol.jpg "
+            },
+            {
+                "item": "Brocade kurtas",
+                "fabric": "Brocade, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep red, Gold",
+                "gradient": "Subtle gradient from red to gold",
+                "traditional_aspect": "Brocade kurtas are worn during special occasions, symbolizing wealth and grandeur",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644780/output_tqrw4b.jpg "
+            },
+            {
+                "item": "Chanderi silk kurtas",
+                "fabric": "Chanderi silk",
+                "texture": "Soft, Smooth",
+                "color": "Light beige, Soft peach",
+                "gradient": "Gentle gradient from light beige to soft peach",
+                "traditional_aspect": "Chanderi silk is a traditional fabric from Madhya Pradesh, often worn during festivals and ceremonies",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644872/output_djwcqo.jpg "
+            },
+            {
+                "item": "Jamdani kurtas",
+                "fabric": "Jamdani, Cotton",
+                "texture": "Light, Breathable",
+                "color": "White, Light gray",
+                "gradient": "Subtle gradient from white to light gray",
+                "traditional_aspect": "Jamdani kurtas are worn during casual occasions, symbolizing simplicity and elegance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644931/output_wk5ife.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Bright lehengas with silk textures",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Vibrant red with golden embroidery",
+                "gradient": "Red fading into gold",
+                "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644994/output_ue1yjq.jpg "
+            },
+            {
+                "item": "Georgette sarees with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Peach with floral embroidery",
+                "gradient": "Peach to soft pink gradient",
+                "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645042/output_jrw2iz.jpg"
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645083/output_urbblm.jpg"
+            },
+            {
+                "item": "Chiffon sarees with mirror work",
+                "fabric": "Chiffon, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645138/output_asjzq4.jpg"
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645238/output_gx9nhg.jpg"
+            },
+            {
+                "item": "Kanjeevaram silk sarees",
+                "fabric": "Kanjeevaram silk",
+                "texture": "Rich, Smooth",
+                "color": "Deep blue, Gold",
+                "gradient": "Rich gradient from deep blue to gold",
+                "traditional_aspect": "Kanjeevaram silk sarees are traditional attire from Tamil Nadu, often worn during festivals and ceremonies",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645358/output_hwoicg.jpg"
+            },
+            {
+                "item": "Embroidered cotton salwar kameez",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Light green, Pastel pink",
+                "gradient": "Gentle gradient from light green to pastel pink",
+                "traditional_aspect": "Embroidered salwar kameez are popular for casual gatherings and everyday wear",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645507/output_oilao6.jpg "
+            },
+            {
+                "item": "Woven Maheshwari sarees",
+                "fabric": "Maheshwari",
+                "texture": "Soft, Smooth",
+                "color": "Earth tones, Soft grays",
+                "gradient": "Natural gradient from earth tones to soft grays",
+                "traditional_aspect": "Maheshwari sarees are traditional attire from Madhya Pradesh, often worn during festivals and ceremonies",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645576/output_qbobpx.jpg "
+            },
+            {
+                "item": "Brocade lehengas",
+                "fabric": "Brocade",
+                "texture": "Rich, Luxurious",
+                "color": "Deep red, Gold",
+                "gradient": "Rich gradient from deep red to gold",
+                "traditional_aspect": "Brocade lehengas are formal, royal attire worn for special occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645624/output_gaslgl.jpg"
+            },
+            {
+                "item": "Chanderi silk sarees",
+                "fabric": "Chanderi silk",
+                "texture": "Soft, Smooth",
+                "color": "Light beige, Soft peach",
+                "gradient": "Gentle gradient from light beige to soft peach",
+                "traditional_aspect": "Chanderi silk is a traditional fabric from Madhya Pradesh, often worn during festivals and ceremonies",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645833/output_lp2ksj.jpg "
+            }
+        ]
+    },
+    "Ivory (Light Fair)": {
+        "Male": [
+            {
+                "item": "Cotton kurtas with printed motifs",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Earth tones with floral prints",
+                "gradient": "Earth tones to white gradient",
+                "traditional_aspect": "Cotton kurtas are traditional attire for casual and semi-formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716314/AI%20CLOTHS/zptfjnx5w2z60dhijtug.jpg"
+            },
+            {
+                "item": "Linen sherwanis",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Soft beige with embroidered patterns",
+                "gradient": "Subtle gradient from beige to white",
+                "traditional_aspect": "Linen sherwanis are comfortable yet elegant options for warm weather events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716475/output_eijxgh.jpg "
+            },
+            {
+                "item": "Bright colored silk kurta sets",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Bright red, Emerald green",
+                "gradient": "From red to a golden hue",
+                "traditional_aspect": "Silk kurtas are worn during formal events like weddings and religious festivals",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716542/output_imnld5.jpg "
+            },
+            {
+                "item": "Printed bandhgalas with motifs",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Printed",
+                "color": "Light blue with intricate gold motifs",
+                "gradient": "Gradient from blue to white",
+                "traditional_aspect": "Bandhgalas are typically worn at weddings or formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716673/output_uuejyg.jpg "
+            },
+            {
+                "item": "Casual cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Soft green with minimal embroidery",
+                "gradient": "From light green to white",
+                "traditional_aspect": "Casual kurtas are often worn for daily wear and informal occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716762/output_y5rico.jpg "
+            },
+            {
+                "item": "Embroidered Nehru jackets",
+                "fabric": "Silk, Velvet",
+                "texture": "Luxurious, Soft",
+                "color": "Deep indigo with gold threadwork",
+                "gradient": "Rich gradient from indigo to gold at the edges",
+                "traditional_aspect": "Nehru jackets are worn for formal events, representing modern Indian elegance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716806/output_nza94o.jpg "
+            },
+            {
+                "item": "Woven woolen shawls",
+                "fabric": "Wool",
+                "texture": "Thick, Warm",
+                "color": "Earth tones, Soft grays",
+                "gradient": "Natural gradient from earth tones to soft grays",
+                "traditional_aspect": "Woolen shawls are worn during winter months, symbolizing warmth and comfort",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716876/output_our20k.jpg"
+            },
+            {
+                "item": "Brocade kurtas",
+                "fabric": "Brocade, Silk",
+                "texture": "Rich, Luxurious",
+                "color": "Deep red, Gold",
+                "gradient": "Subtle gradient from red to gold",
+                "traditional_aspect": "Brocade kurtas are worn during special occasions, symbolizing wealth and grandeur",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716920/output_tlgbzg.jpg "
+            },
+            {
+                "item": "Chanderi silk kurtas",
+                "fabric": "Chanderi silk",
+                "texture": "Soft, Smooth",
+                "color": "Light beige, Soft peach",
+                "gradient": "Gentle gradient from light beige to soft peach",
+                "traditional_aspect": "Chanderi silk is a traditional fabric from Madhya Pradesh, often worn during festivals and ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Jamdani kurtas",
+                "fabric": "Jamdani, Cotton",
+                "texture": "Light, Breathable",
+                "color": "White, Light gray",
+                "gradient": "Subtle gradient from white to light gray",
+                "traditional_aspect": "Jamdani kurtas are worn during casual occasions, symbolizing simplicity and elegance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733716982/output_ixvvry.jpg "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Bright lehengas with silk textures",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Vibrant red with golden embroidery",
+                "gradient": "Red fading into gold",
+                "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Georgette sarees with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Peach with floral embroidery",
+                "gradient": "Peach to soft pink gradient",
+                "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+                "img-url": " "
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " "
+            },
+            {
+                "item": "Chiffon sarees with mirror work",
+                "fabric": "Chiffon, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": " "
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Kanjeevaram silk sarees",
+                "fabric": "Kanjeevaram silk",
+                "texture": "Rich, Smooth",
+                "color": "Deep blue, Gold",
+                "gradient": "Rich gradient from deep blue to gold",
+                "traditional_aspect": "Kanjeevaram silk sarees are traditional attire from Tamil Nadu, often worn during festivals and ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Embroidered cotton salwar kameez",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Light green, Pastel pink",
+                "gradient": "Gentle gradient from light green to pastel pink",
+                "traditional_aspect": "Embroidered salwar kameez are popular for casual gatherings and everyday wear",
+                "img-url": " "
+            },
+            {
+                "item": "Woven Maheshwari sarees",
+                "fabric": "Maheshwari",
+                "texture": "Soft, Smooth",
+                "color": "Earth tones, Soft grays",
+                "gradient": "Natural gradient from earth tones to soft grays",
+                "traditional_aspect": "Maheshwari sarees are traditional attire from Madhya Pradesh, often worn during festivals and ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Brocade lehengas",
+                "fabric": "Brocade",
+                "texture": "Rich, Luxurious",
+                "color": "Deep red, Gold",
+                "gradient": "Rich gradient from deep red to gold",
+                "traditional_aspect": "Brocade lehengas are formal, royal attire worn for special occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Chanderi silk sarees",
+                "fabric": "Chanderi silk",
+                "texture": "Soft, Smooth",
+                "color": "Light beige, Soft peach",
+                "gradient": "Gentle gradient from light beige to soft peach",
+                "traditional_aspect": "Chanderi silk is a traditional fabric from Madhya Pradesh, often worn during festivals and ceremonies",
+                "img-url": " "
+            }
+        ]
+    },
+    "Cream (Light)": {
+        "Male": [
+            {
+                "item": "Cotton kurtas with printed motifs",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Earth tones with floral prints",
+                "gradient": "Earth tones to white gradient",
+                "traditional_aspect": "Cotton kurtas are traditional attire for casual and semi-formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Linen sherwanis",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Soft beige with embroidered patterns",
+                "gradient": "Subtle gradient from beige to white",
+                "traditional_aspect": "Linen sherwanis are comfortable yet elegant options for warm weather events",
+                "img-url": " "
+            },
+            {
+                "item": "Bright colored silk kurta sets",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Bright red, Emerald green",
+                "gradient": "From red to a golden hue",
+                "traditional_aspect": "Silk kurtas are worn during formal events like weddings and religious festivals",
+                "img-url": " "
+            },
+            {
+                "item": "Printed bandhgalas with motifs",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Printed",
+                "color": "Light blue with intricate gold motifs",
+                "gradient": "Gradient from blue to white",
+                "traditional_aspect": "Bandhgalas are typically worn at weddings or formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Casual cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Soft green with minimal embroidery",
+                "gradient": "From light green to white",
+                "traditional_aspect": "Casual kurtas are often worn for daily wear and informal occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Embroidered Nehru jackets",
+                "fabric": "Wool blend",
+                "texture": "Soft, Embroidered",
+                "color": "Light gray with gold embroidery",
+                "gradient": "Subtle gray to white gradient",
+                "traditional_aspect": "Nehru jackets add elegance to casual or formal outfits",
+                "img-url": " "
+            },
+            {
+                "item": "Pathani suits",
+                "fabric": "Cotton",
+                "texture": "Soft, Comfortable",
+                "color": "Cream with a contrasting collar",
+                "gradient": "Single tone with accents",
+                "traditional_aspect": "Pathani suits are a versatile ethnic wear option for formal and semi-formal occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Velvet bandhgalas with gold embroidery",
+                "fabric": "Velvet",
+                "texture": "Soft, Luxurious",
+                "color": "Maroon with gold detailing",
+                "gradient": "Rich maroon to black",
+                "traditional_aspect": "Perfect for winter weddings and formal evening gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Jacquard waistcoats",
+                "fabric": "Jacquard",
+                "texture": "Textured, Embellished",
+                "color": "Navy blue with intricate patterns",
+                "gradient": "Navy blue to white",
+                "traditional_aspect": "Adds a sophisticated touch to casual or festive attire",
+                "img-url": " "
+            },
+            {
+                "item": "Classic dhoti-kurta sets",
+                "fabric": "Cotton",
+                "texture": "Soft, Traditional",
+                "color": "Off-white with gold accents",
+                "gradient": "Single tone with gold borders",
+                "traditional_aspect": "Traditional South Indian attire ideal for weddings and religious ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Silk achkan sherwanis",
+                "fabric": "Silk",
+                "texture": "Smooth, Elegant",
+                "color": "Royal blue with silver embroidery",
+                "gradient": "Royal blue to white",
+                "traditional_aspect": "A luxurious option for weddings and formal events",
+                "img-url": " "
+            },
+            {
+                "item": "Printed khadi kurtas",
+                "fabric": "Khadi",
+                "texture": "Natural, Handwoven",
+                "color": "Light beige with subtle block prints",
+                "gradient": "Beige to white",
+                "traditional_aspect": "A sustainable and stylish choice for casual wear",
+                "img-url": " "
+            },
+            {
+                "item": "Raw silk Jodhpuri suits",
+                "fabric": "Raw silk",
+                "texture": "Rich, Textured",
+                "color": "Charcoal gray with subtle embroidery",
+                "gradient": "Charcoal to black",
+                "traditional_aspect": "A modern fusion outfit for formal events",
+                "img-url": " "
+            },
+            {
+                "item": "Traditional lungis with short kurtas",
+                "fabric": "Cotton",
+                "texture": "Breathable, Comfortable",
+                "color": "Striped white and gray",
+                "gradient": "Single tone",
+                "traditional_aspect": "Comfortable traditional wear popular in South India",
+                "img-url": " "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Bright lehengas with silk textures",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Vibrant red with golden embroidery",
+                "gradient": "Red fading into gold",
+                "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Georgette sarees with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Peach with floral embroidery",
+                "gradient": "Peach to soft pink gradient",
+                "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+                "img-url": " "
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " "
+            },
+            {
+                "item": "Chiffon sarees with mirror work",
+                "fabric": "Chiffon, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": " "
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Floor-length Anarkali suits",
+                "fabric": "Silk blend",
+                "texture": "Flowing, Embellished",
+                "color": "Pastel pink with sequins",
+                "gradient": "Pastel pink fading to white",
+                "traditional_aspect": "Anarkali suits are ideal for formal and festive events, known for their regal and flowing design",
+                "img-url": " "
+            },
+            {
+                "item": "Organza sarees with lace borders",
+                "fabric": "Organza",
+                "texture": "Crisp, Lightweight",
+                "color": "Light mint green with white lace",
+                "gradient": "Mint green to pastel white",
+                "traditional_aspect": "Organza sarees are light and elegant, suitable for formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Banarasi silk sarees",
+                "fabric": "Banarasi silk",
+                "texture": "Rich, Lustrous",
+                "color": "Golden yellow with intricate silver weaving",
+                "gradient": "Gold to silver",
+                "traditional_aspect": "A classic choice for weddings and religious ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Printed salwar kameez",
+                "fabric": "Cotton",
+                "texture": "Soft, Flowing",
+                "color": "Sky blue with floral patterns",
+                "gradient": "Sky blue to white",
+                "traditional_aspect": "Casual and comfortable attire for everyday use",
+                "img-url": " "
+            },
+            {
+                "item": "Velvet lehengas with intricate embroidery",
+                "fabric": "Velvet",
+                "texture": "Rich, Elegant",
+                "color": "Royal purple with silver embroidery",
+                "gradient": "Purple to lavender",
+                "traditional_aspect": "An opulent choice for winter weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Jacquard sarees with zari borders",
+                "fabric": "Jacquard",
+                "texture": "Textured, Embroidered",
+                "color": "Soft orange with gold accents",
+                "gradient": "Orange to gold",
+                "traditional_aspect": "Traditional festive wear with a touch of grandeur",
+                "img-url": " "
+            },
+            {
+                "item": "Silk fusion gowns",
+                "fabric": "Silk blend",
+                "texture": "Smooth, Flowing",
+                "color": "Champagne gold with pearl detailing",
+                "gradient": "Gold to white",
+                "traditional_aspect": "A modern take on traditional attire, suitable for receptions",
+                "img-url": " "
+            },
+            {
+                "item": "Cotton sarees with block prints",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Beige with indigo prints",
+                "gradient": "Beige to indigo",
+                "traditional_aspect": "Popular for casual and semi-formal occasions",
+                "img-url": " "
+            }
+        ]
+    },
+    "Beige (Light-Medium)": {
+        "Male": [
+            {
+                "item": "Cotton kurtas with printed motifs",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Earth tones with floral prints",
+                "gradient": "Earth tones to white gradient",
+                "traditional_aspect": "Cotton kurtas are traditional attire for casual and semi-formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Linen sherwanis",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Soft beige with embroidered patterns",
+                "gradient": "Subtle gradient from beige to white",
+                "traditional_aspect": "Linen sherwanis are comfortable yet elegant options for warm weather events",
+                "img-url": " "
+            },
+            {
+                "item": "Bright colored silk kurta sets",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Bright red, Emerald green",
+                "gradient": "From red to a golden hue",
+                "traditional_aspect": "Silk kurtas are worn during formal events like weddings and religious festivals",
+                "img-url": " "
+            },
+            {
+                "item": "Printed bandhgalas with motifs",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Printed",
+                "color": "Light blue with intricate gold motifs",
+                "gradient": "Gradient from blue to white",
+                "traditional_aspect": "Bandhgalas are typically worn at weddings or formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Casual cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Soft green with minimal embroidery",
+                "gradient": "From light green to white",
+                "traditional_aspect": "Casual kurtas are often worn for daily wear and informal occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Raw silk Jodhpuri suits",
+                "fabric": "Raw silk",
+                "texture": "Rich, Textured",
+                "color": "Navy blue with gold accents",
+                "gradient": "Navy blue to beige",
+                "traditional_aspect": "Perfect for formal events with a contemporary ethnic touch",
+                "img-url": " "
+            },
+            {
+                "item": "Khadi Nehru jackets",
+                "fabric": "Khadi",
+                "texture": "Handwoven, Breathable",
+                "color": "Cream with earthy embroidery",
+                "gradient": "Solid cream",
+                "traditional_aspect": "A versatile and sustainable option for layering over kurtas",
+                "img-url": " "
+            },
+            {
+                "item": "Velvet bandhgalas with gold embroidery",
+                "fabric": "Velvet",
+                "texture": "Soft, Luxurious",
+                "color": "Deep maroon with golden highlights",
+                "gradient": "Maroon to black",
+                "traditional_aspect": "Ideal for winter weddings and formal occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Pathani suits with contrasting dupattas",
+                "fabric": "Silk blend",
+                "texture": "Smooth, Comfortable",
+                "color": "Light beige with black accents",
+                "gradient": "Beige with single-tone accents",
+                "traditional_aspect": "An elegant and comfortable choice for festivals and formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Kurta-pyjama sets with shawls",
+                "fabric": "Cotton-Silk blend",
+                "texture": "Soft, Luxurious",
+                "color": "Ivory with embroidered shawls",
+                "gradient": "Ivory to beige",
+                "traditional_aspect": "Perfect for traditional ceremonies and festive events",
+                "img-url": " "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Bright lehengas with silk textures",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Vibrant red with golden embroidery",
+                "gradient": "Red fading into gold",
+                "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Georgette sarees with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Peach with floral embroidery",
+                "gradient": "Peach to soft pink gradient",
+                "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+                "img-url": " "
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " "
+            },
+            {
+                "item": "Chiffon sarees with mirror work",
+                "fabric": "Chiffon, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": " "
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Organza sarees with floral embroidery",
+                "fabric": "Organza",
+                "texture": "Crisp, Lightweight",
+                "color": "Pastel mint green with cream flowers",
+                "gradient": "Mint green to ivory",
+                "traditional_aspect": "Organza sarees are ideal for receptions or garden-themed ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Floor-length silk Anarkalis",
+                "fabric": "Silk blend",
+                "texture": "Flowing, Embellished",
+                "color": "Rose gold with pearl details",
+                "gradient": "Rose gold fading into soft beige",
+                "traditional_aspect": "A royal choice for weddings and formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Banarasi silk sarees with zari borders",
+                "fabric": "Banarasi silk",
+                "texture": "Rich, Luxurious",
+                "color": "Golden beige with intricate red zari work",
+                "gradient": "Golden to beige",
+                "traditional_aspect": "A timeless and classic choice for special occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Cotton sarees with block prints",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Off-white with gray floral prints",
+                "gradient": "Off-white to beige",
+                "traditional_aspect": "A casual yet elegant option for semi-formal events",
+                "img-url": " "
+            },
+            {
+                "item": "Velvet lehengas with intricate embroidery",
+                "fabric": "Velvet",
+                "texture": "Rich, Elegant",
+                "color": "Deep navy blue with silver detailing",
+                "gradient": "Navy blue to beige",
+                "traditional_aspect": "An ideal choice for winter weddings",
+                "img-url": " "
+            }
+        ]
+    },
+    "Golden Beige (Medium)": {
+        "Male": [
+            {
+                "item": "Cotton kurtas with printed motifs",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Earth tones with floral prints",
+                "gradient": "Earth tones to white gradient",
+                "traditional_aspect": "Cotton kurtas are traditional attire for casual and semi-formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Linen sherwanis",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Soft beige with embroidered patterns",
+                "gradient": "Subtle gradient from beige to white",
+                "traditional_aspect": "Linen sherwanis are comfortable yet elegant options for warm weather events",
+                "img-url": " "
+            },
+            {
+                "item": "Bright colored silk kurta sets",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Bright red, Emerald green",
+                "gradient": "From red to a golden hue",
+                "traditional_aspect": "Silk kurtas are worn during formal events like weddings and religious festivals",
+                "img-url": " "
+            },
+            {
+                "item": "Printed bandhgalas with motifs",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Printed",
+                "color": "Light blue with intricate gold motifs",
+                "gradient": "Gradient from blue to white",
+                "traditional_aspect": "Bandhgalas are typically worn at weddings or formal gatherings",
+                "img-url": " "
+            },
+            {
+                "item": "Casual cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Soft green with minimal embroidery",
+                "gradient": "From light green to white",
+                "traditional_aspect": "Casual kurtas are often worn for daily wear and informal occasions",
+                "img-url": " "
+            },
+            {
+                "item": "Khadi Nehru jackets with embroidered details",
+                "fabric": "Khadi",
+                "texture": "Handwoven, Sustainable",
+                "color": "Golden beige with brown accents",
+                "gradient": "Solid golden beige",
+                "traditional_aspect": "Perfect for pairing with kurtas during semi-formal events",
+                "img-url": " "
+            },
+            {
+                "item": "Velvet bandhgalas with brocade work",
+                "fabric": "Velvet",
+                "texture": "Soft, Royal",
+                "color": "Deep purple with golden embroidery",
+                "gradient": "Purple to golden beige",
+                "traditional_aspect": "A luxurious choice for evening receptions",
+                "img-url": " "
+            },
+            {
+                "item": "Raw silk sherwanis with zari embroidery",
+                "fabric": "Raw silk",
+                "texture": "Rich, Textured",
+                "color": "Golden beige with intricate designs",
+                "gradient": "Solid golden beige",
+                "traditional_aspect": "Ideal for formal weddings and grand celebrations",
+                "img-url": " "
+            },
+            {
+                "item": "Kurta sets with embroidered shawls",
+                "fabric": "Cotton-Silk blend",
+                "texture": "Light, Elegant",
+                "color": "Ivory with golden highlights",
+                "gradient": "Ivory to beige",
+                "traditional_aspect": "A sophisticated choice for religious or cultural ceremonies",
+                "img-url": " "
+            },
+            {
+                "item": "Pathani suits with contrasting dupattas",
+                "fabric": "Silk blend",
+                "texture": "Smooth, Comfortable",
+                "color": "Beige with deep brown accents",
+                "gradient": "Beige with subtle gradients",
+                "traditional_aspect": "A stylish and practical option for festive gatherings",
+                "img-url": " "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Bright lehengas with silk textures",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Vibrant red with golden embroidery",
+                "gradient": "Red fading into gold",
+                "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+                "img-url": " "
+            },
+            {
+                "item": "Georgette sarees with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Peach with floral embroidery",
+                "gradient": "Peach to soft pink gradient",
+                "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+                "img-url": " "
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " "
+            },
+            {
+                "item": "Chiffon sarees with mirror work",
+                "fabric": "Chiffon, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": " "
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733725485/lReL03_v_vte6z3.jpg "
+            },
+            {
+                "item": "Banarasi sarees with intricate zari work",
+                "fabric": "Banarasi silk",
+                "texture": "Rich, Textured",
+                "color": "Golden beige with red highlights",
+                "gradient": "Beige to red",
+                "traditional_aspect": "Perfect for grand ceremonies and traditional events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733725315/0Un90rU4_yvhtpx.jpg "
+            },
+            {
+                "item": "Velvet lehengas with gold accents",
+                "fabric": "Velvet",
+                "texture": "Rich, Regal",
+                "color": "Deep navy blue with golden borders",
+                "gradient": "Navy blue to beige",
+                "traditional_aspect": "A royal choice for winter weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733724441/9PbAq5OO_ckkrsl.jpg"
+            },
+            {
+                "item": "Organza sarees with floral prints",
+                "fabric": "Organza",
+                "texture": "Lightweight, Sheer",
+                "color": "Golden beige with pastel green accents",
+                "gradient": "Beige to green",
+                "traditional_aspect": "Ideal for daytime receptions or festive celebrations",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733724301/s1zM4S7U_n6lzyr.jpg "
+            },
+            {
+                "item": "Silk Anarkali suits with detailed borders",
+                "fabric": "Silk blend",
+                "texture": "Soft, Luxurious",
+                "color": "Golden beige with maroon highlights",
+                "gradient": "Beige to maroon",
+                "traditional_aspect": "A stunning option for cultural and festive events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733724234/dTMb44-6_tyfsyl.jpg"
+            },
+            {
+                "item": "Cotton sarees with gold borders",
+                "fabric": "Cotton",
+                "texture": "Soft, Elegant",
+                "color": "Ivory with golden beige borders",
+                "gradient": "Ivory to beige",
+                "traditional_aspect": "A perfect blend of tradition and comfort for semi-formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733724169/um34UDBd_kxrl3f.jpg"
+            }
+        ]
+    },
+    "Honey (Medium-Warm)": {
+        "Male": [
+            {
+                "item": "Khadi kurtas with block prints",
+                "fabric": "Khadi",
+                "texture": "Sustainable, Handwoven",
+                "color": "Honey gold with brown patterns",
+                "gradient": "Solid honey tone",
+                "traditional_aspect": "Comfortable attire suitable for cultural gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733719837/zb9Zy_kR_hs9zli.jpg "
+            },
+            {
+                "item": "Velvet bandhgalas with golden embroidery",
+                "fabric": "Velvet",
+                "texture": "Rich, Plush",
+                "color": "Royal blue with honey gold embroidery",
+                "gradient": "Blue to honey gradient",
+                "traditional_aspect": "A grand choice for formal weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733719987/DobvYje9_gf7ium.jpg"
+            },
+            {
+                "item": "Silk pathani suits with zari work",
+                "fabric": "Silk",
+                "texture": "Smooth, Elegant",
+                "color": "Golden honey with white accents",
+                "gradient": "Golden honey tone",
+                "traditional_aspect": "Suitable for weddings and festive occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720183/hPjAx7Y5_r53jlt.jpg"
+            },
+            {
+                "item": "Chikankari kurtas with detailed embroidery",
+                "fabric": "Cotton",
+                "texture": "Light, Intricate",
+                "color": "Ivory with honey-colored embroidery",
+                "gradient": "Ivory to honey",
+                "traditional_aspect": "A classic choice for both casual and formal settings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720258/hUEerZtm_ujgm2r.jpg "
+            },
+            {
+                "item": "Woolen Nehru jackets",
+                "fabric": "Wool blend",
+                "texture": "Warm, Structured",
+                "color": "Honey brown with dark brown buttons",
+                "gradient": "Honey brown tone",
+                "traditional_aspect": "Perfect for colder seasons and formal events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720321/zmVlZtig_lced7s.jpg"
+            },
+            {
+                "item": "Embroidered jodhpuri suits",
+                "fabric": "Raw silk",
+                "texture": "Luxurious, Crisp",
+                "color": "Honey beige with dark embroidery",
+                "gradient": "Honey beige",
+                "traditional_aspect": "Ideal for festive and wedding occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720463/lPineEe2_brwwfn.jpg "
+            },
+            {
+                "item": "Mandarin-collar jackets with handwoven patterns",
+                "fabric": "Khadi-silk blend",
+                "texture": "Textured, Elegant",
+                "color": "Mustard yellow with honey accents",
+                "gradient": "Mustard to honey fade",
+                "traditional_aspect": "Lightweight option for semi-formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720535/GC2CjQp4_mggwff.jpg "
+            },
+            {
+                "item": "Printed dhoti-kurta sets",
+                "fabric": "Cotton-silk blend",
+                "texture": "Smooth, Flowing",
+                "color": "Honey with cream patterns",
+                "gradient": "Honey to cream gradient",
+                "traditional_aspect": "Traditional attire for festive and cultural events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720583/fnm75W7Q_jnveqi.jpg "
+            },
+            {
+                "item": "Raw silk kurtas with zari collars",
+                "fabric": "Raw silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Golden yellow with minimal embroidery",
+                "gradient": "Solid golden tone",
+                "traditional_aspect": "A versatile piece for both daytime and evening events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720583/fnm75W7Q_jnveqi.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Banarasi silk sarees with zari work",
+                "fabric": "Banarasi silk",
+                "texture": "Rich, Textured",
+                "color": "Golden honey with crimson accents",
+                "gradient": "Honey to crimson",
+                "traditional_aspect": "A grand choice for weddings and festive events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720715/CaRADxVa_fenq2j.jpg "
+            },
+            {
+                "item": "Organza sarees with pastel embroidery",
+                "fabric": "Organza",
+                "texture": "Sheer, Light",
+                "color": "Honey with pastel pink accents",
+                "gradient": "Honey to pink",
+                "traditional_aspect": "Perfect for daytime celebrations and receptions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720856/mrnJI5h9_pnftud.jpg "
+            },
+            {
+                "item": "Velvet lehengas with pearl embellishments",
+                "fabric": "Velvet",
+                "texture": "Rich, Plush",
+                "color": "Deep teal with honey highlights",
+                "gradient": "Teal to honey",
+                "traditional_aspect": "Ideal for winter weddings and evening ceremonies",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733720964/WCSuN2jR_fqmvdt.jpg "
+            },
+            {
+                "item": "Chikankari Anarkali suits",
+                "fabric": "Cotton-Silk blend",
+                "texture": "Light, Elegant",
+                "color": "Ivory with honey embroidery",
+                "gradient": "Ivory to honey",
+                "traditional_aspect": "A timeless option for both casual and formal occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733721030/86YehUDP_moptsr.jpg "
+            },
+            {
+                "item": "Handpainted tussar silk sarees",
+                "fabric": "Tussar silk",
+                "texture": "Textured, Handcrafted",
+                "color": "Honey gold with artistic designs",
+                "gradient": "Solid honey tone",
+                "traditional_aspect": "Perfect for traditional ceremonies and artistic events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733721116/llj2TbED_sr4szc.jpg"
+            },
+            {
+                "item": "Silk lehengas with scalloped hems",
+                "fabric": "Silk",
+                "texture": "Flowing, Elegant",
+                "color": "Golden honey with pink borders",
+                "gradient": "Honey to pink gradient",
+                "traditional_aspect": "A glamorous choice for weddings and receptions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733721219/2e3ShYbb_wd0thm.jpg "
+            },
+            {
+                "item": "Kanjeevaram sarees with intricate designs",
+                "fabric": "Kanjeevaram silk",
+                "texture": "Rich, Heavy",
+                "color": "Honey with deep red motifs",
+                "gradient": "Honey to red",
+                "traditional_aspect": "Ideal for weddings and temple rituals",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733721301/Y0cE6xHv_pqzy1i.jpg"
+            },
+            {
+                "item": "Cotton sarees with kalamkari prints",
+                "fabric": "Cotton",
+                "texture": "Soft, Printed",
+                "color": "Honey with earthy prints",
+                "gradient": "Solid honey tone",
+                "traditional_aspect": "A sustainable and artistic choice for cultural events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733721319/ZluQ0QRU_jtynfg.jpg "
+            },
+            {
+                "item": "Raw silk kurtis with flared hems",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Comfortable",
+                "color": "Golden honey with subtle patterns",
+                "gradient": "Solid golden honey",
+                "traditional_aspect": "A versatile outfit for casual and formal settings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733721369/1QXHgyE4_zeyalr.jpg "
+            }
+        ]
+    },
+    "Tan (Medium-Dark)": {
+        "Male": [
+            {
+                "item": "Handwoven khadi shirts",
+                "fabric": "Khadi",
+                "texture": "Rustic, Breathable",
+                "color": "Tan with darker borders",
+                "gradient": "Tan to brown gradient",
+                "traditional_aspect": "Perfect for cultural and eco-friendly gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476742/output_wbmfsy.jpg"
+            },
+            {
+                "item": "Velvet bandhgalas with intricate embroidery",
+                "fabric": "Velvet",
+                "texture": "Plush, Rich",
+                "color": "Deep tan with golden embroidery",
+                "gradient": "Solid tan tone",
+                "traditional_aspect": "A luxurious option for grand weddings and evening events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476786/output_akvcut.jpg "
+            },
+            {
+                "item": "Matka silk kurtas with contrasting kurta dupattas",
+                "fabric": "Matka silk",
+                "texture": "Textured, Lustrous",
+                "color": "Rust tan with maroon accents",
+                "gradient": "Rust to maroon gradient",
+                "traditional_aspect": "Ideal for semi-formal and traditional occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476936/output_ckazn3.jpg"
+            },
+            {
+                "item": "Woolen Nehru jackets with paisley motifs",
+                "fabric": "Wool blend",
+                "texture": "Structured, Warm",
+                "color": "Dark tan with cream patterns",
+                "gradient": "Solid dark tan",
+                "traditional_aspect": "Perfect for winter ceremonies or festive gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476960/output_pouokw.jpg "
+            },
+            {
+                "item": "Chanderi silk sherwanis",
+                "fabric": "Chanderi silk",
+                "texture": "Light, Luxurious",
+                "color": "Golden tan with silver zari work",
+                "gradient": "Golden to tan gradient",
+                "traditional_aspect": "Exquisite attire for weddings and formal functions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476993/output_tsaizr.jpg "
+            },
+            {
+                "item": "Dhoti-kurta sets with zari borders",
+                "fabric": "Cotton-silk blend",
+                "texture": "Smooth, Flowing",
+                "color": "Tan base with golden accents",
+                "gradient": "Solid tan",
+                "traditional_aspect": "Traditional wear for festivals and cultural rituals",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477041/output_smpros.jpg"
+            },
+            {
+                "item": "Embroidered jodhpuri suits",
+                "fabric": "Raw silk",
+                "texture": "Luxurious, Crisp",
+                "color": "Golden tan with black embroidery",
+                "gradient": "Solid tan tone",
+                "traditional_aspect": "Suitable for weddings and high-profile events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477061/output_jsi4n0.jpg "
+            },
+            {
+                "item": "Mandarin-collar jackets with tribal prints",
+                "fabric": "Cotton",
+                "texture": "Textured, Elegant",
+                "color": "Tan with earthy motifs",
+                "gradient": "Tan to cream gradient",
+                "traditional_aspect": "Comfortable for casual or semi-formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477101/output_uqfkit.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Tussar silk sarees with tribal prints",
+                "fabric": "Tussar silk",
+                "texture": "Rustic, Elegant",
+                "color": "Tan with black tribal patterns",
+                "gradient": "Solid tan tone",
+                "traditional_aspect": "Perfect for eco-friendly and artistic gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477178/output_xxeuij.jpg"
+            },
+            {
+                "item": "Velvet lehengas with heavy embroidery",
+                "fabric": "Velvet",
+                "texture": "Rich, Plush",
+                "color": "Deep brown with tan embroidery",
+                "gradient": "Tan to brown gradient",
+                "traditional_aspect": "Suitable for grand weddings and evening receptions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477533/output_onm9lv.jpg"
+            },
+            {
+                "item": "Chikankari sarees with dual tones",
+                "fabric": "Cotton",
+                "texture": "Light, Intricate",
+                "color": "Tan with white embroidery",
+                "gradient": "Tan to cream",
+                "traditional_aspect": "A classic option for daytime events and casual ceremonies",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477658/output_fsy7zf.jpg"
+            },
+            {
+                "item": "Raw silk Anarkali suits with zari hems",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Golden tan with contrasting red embroidery",
+                "gradient": "Solid tan tone",
+                "traditional_aspect": "Perfect for weddings and traditional events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477716/output_tc34je.jpg"
+            },
+            {
+                "item": "Handpainted cotton sarees",
+                "fabric": "Cotton",
+                "texture": "Soft, Artistic",
+                "color": "Tan with earthy hues",
+                "gradient": "Solid tan",
+                "traditional_aspect": "A sustainable option for casual and formal occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477921/output_g4sa1j.jpg"
+            },
+            {
+                "item": "Kanjeevaram silk sarees with contrasting motifs",
+                "fabric": "Kanjeevaram silk",
+                "texture": "Heavy, Luxurious",
+                "color": "Tan with maroon and gold borders",
+                "gradient": "Tan to gold gradient",
+                "traditional_aspect": "A timeless attire for weddings and temple rituals",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733477774/output_xn0rd9.jpg"
+            },
+            {
+                "item": "Organza lehengas with pastel embroidery",
+                "fabric": "Organza",
+                "texture": "Light, Sheer",
+                "color": "Light tan with pink accents",
+                "gradient": "Tan to pastel pink gradient",
+                "traditional_aspect": "Elegant choice for daytime receptions and parties",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478004/output_cungfy.jpg"
+            },
+            {
+                "item": "Cotton kurtis with block prints",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Tan with vibrant block patterns",
+                "gradient": "Solid tan",
+                "traditional_aspect": "Ideal for casual wear and cultural outings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478088/output_qi39gx.jpg"
+            },
+            {
+                "item": "Chiffon sarees with delicate sequins",
+                "fabric": "Chiffon",
+                "texture": "Light, Flowing",
+                "color": "Soft tan with glitter accents",
+                "gradient": "Tan to cream gradient",
+                "traditional_aspect": "Perfect for festive occasions and evening gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733478277/output_f59nn1.jpg"
+            }
+        ]
+    },
+    "Caramel (Dark)": {
+        "Male": [
+            {
+                "item": "Jodhpuri suits with contrasting lapels",
+                "fabric": "Velvet",
+                "texture": "Rich, Smooth",
+                "color": "Deep caramel with black lapels",
+                "gradient": "Solid caramel tone",
+                "traditional_aspect": "Perfect for formal evening occasions and weddings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476004/output_lcsptz.jpg "
+            },
+            {
+                "item": "Matka silk kurtas with zari work",
+                "fabric": "Matka silk",
+                "texture": "Textured, Lustrous",
+                "color": "Rust caramel with gold accents",
+                "gradient": "Caramel to gold gradient",
+                "traditional_aspect": "Ideal for festive and traditional events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476066/output_glceyb.jpg "
+            },
+            {
+                "item": "Handblock printed cotton shirts",
+                "fabric": "Cotton",
+                "texture": "Breathable, Soft",
+                "color": "Caramel with earthy block prints",
+                "gradient": "Caramel to brown gradient",
+                "traditional_aspect": "Casual wear suited for cultural gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476125/output_zyyasv.jpg "
+            },
+            {
+                "item": "Raw silk bandhgalas with gold embroidery",
+                "fabric": "Raw silk",
+                "texture": "Rich, Structured",
+                "color": "Golden caramel with intricate embroidery",
+                "gradient": "Solid golden caramel",
+                "traditional_aspect": "Perfect for weddings and high-profile events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476152/output_aagdpd.jpg "
+            },
+            {
+                "item": "Kalamkari printed cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Soft, Vibrant",
+                "color": "Caramel with multi-colored kalamkari designs",
+                "gradient": "Caramel to beige gradient",
+                "traditional_aspect": "A unique choice for casual and artistic gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476185/output_g6vadu.jpg "
+            },
+            {
+                "item": "Layered dhoti-kurta sets",
+                "fabric": "Cotton-silk blend",
+                "texture": "Smooth, Flowing",
+                "color": "Caramel with cream layers",
+                "gradient": "Caramel to cream gradient",
+                "traditional_aspect": "Perfect for traditional ceremonies and cultural rituals",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476256/output_axe2s9.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Handloom silk sarees with temple borders",
+                "fabric": "Handloom silk",
+                "texture": "Lustrous, Structured",
+                "color": "Rich caramel with gold temple motifs",
+                "gradient": "Caramel to gold gradient",
+                "traditional_aspect": "Timeless attire for weddings and religious events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476300/output_rbihqh.jpg"
+            },
+            {
+                "item": "Velvet lehengas with intricate beadwork",
+                "fabric": "Velvet",
+                "texture": "Rich, Luxurious",
+                "color": "Dark caramel with silver and gold beadwork",
+                "gradient": "Caramel to dark gold gradient",
+                "traditional_aspect": "Ideal for grand receptions and evening parties",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476338/output_ls4k8k.jpg "
+            },
+            {
+                "item": "Banarasi sarees with paisley motifs",
+                "fabric": "Banarasi silk",
+                "texture": "Lustrous, Heavy",
+                "color": "Caramel with red and gold paisley patterns",
+                "gradient": "Caramel to red gradient",
+                "traditional_aspect": "A classic choice for weddings and formal ceremonies",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476391/output_flwoet.jpg"
+            },
+            {
+                "item": "Chanderi salwar suits with zari accents",
+                "fabric": "Chanderi silk",
+                "texture": "Light, Elegant",
+                "color": "Caramel with gold zari patterns",
+                "gradient": "Solid caramel tone",
+                "traditional_aspect": "Perfect for festive and semi-formal occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476525/output_pnmv7x.jpg"
+            },
+            {
+                "item": "Organza sarees with sequined borders",
+                "fabric": "Organza",
+                "texture": "Sheer, Flowing",
+                "color": "Light caramel with glitter accents",
+                "gradient": "Caramel to ivory gradient",
+                "traditional_aspect": "Elegant and light for daytime gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476563/output_vfnrza.jpg"
+            },
+            {
+                "item": "Patola sarees with vibrant patterns",
+                "fabric": "Silk",
+                "texture": "Smooth, Vibrant",
+                "color": "Caramel base with multi-colored geometric patterns",
+                "gradient": "Caramel to beige gradient",
+                "traditional_aspect": "Traditional wear for festive and cultural events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476627/output_zv017a.jpg "
+            },
+            {
+                "item": "Floor-length Anarkali gowns with embellishments",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Caramel with gold embellishments",
+                "gradient": "Caramel to gold gradient",
+                "traditional_aspect": "Stylish and graceful for formal events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733476665/output_jk8cor.jpg "
+            }
+        ]
+    },
+    "Honey Brown (Dark-Warm)": {
+        "Male": [
+            {
+                "item": "Taffeta silk kurta with zari work",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Lustrous",
+                "color": "Warm honey brown with gold zari accents",
+                "gradient": "Solid honey brown",
+                "traditional_aspect": "Perfect for formal occasions like weddings or festivals",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473682/output_jpupk1.jpg"
+            },
+            {
+                "item": "Velvet bandhgalas with floral motifs",
+                "fabric": "Velvet",
+                "texture": "Rich, Smooth",
+                "color": "Honey brown with embroidered floral patterns",
+                "gradient": "Honey brown to dark amber gradient",
+                "traditional_aspect": "Stylish and sophisticated for high-profile events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473742/output_uvpoap.jpg"
+            },
+            {
+                "item": "Cotton kurtas with tribal prints",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Honey brown with bold, earthy tribal prints",
+                "gradient": "Honey brown to beige gradient",
+                "traditional_aspect": "Casual and comfortable for cultural gatherings and daily wear",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473795/output_idchaa.jpg "
+            },
+            {
+                "item": "Linen blazers with checked patterns",
+                "fabric": "Linen",
+                "texture": "Light, Crisp",
+                "color": "Honey brown with subtle checks",
+                "gradient": "Honey brown to light tan gradient",
+                "traditional_aspect": "Linen blazers provide comfort while maintaining a refined look",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474086/output_huoyns.jpg "
+            },
+            {
+                "item": "Cotton kurtas with geometric prints",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Honey brown with modern geometric designs",
+                "gradient": "Solid honey brown",
+                "traditional_aspect": "Stylish for semi-formal occasions and contemporary events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474174/output_gu3wee.jpg"
+            },
+            {
+                "item": "Silk kurta with ethnic embroidery",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Honey brown with intricate ethnic patterns",
+                "gradient": "Honey brown to beige gradient",
+                "traditional_aspect": "Ideal for festive occasions and religious ceremonies",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474501/output_gsqmbv.jpg "
+            },
+            {
+                "item": "Corduroy jackets with subtle embroidery",
+                "fabric": "Corduroy",
+                "texture": "Soft, Textured",
+                "color": "Honey brown with delicate embroidery",
+                "gradient": "Solid honey brown",
+                "traditional_aspect": "A more casual, yet refined option for evening gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474573/output_czetr4.jpg "
+            },
+            {
+                "item": "Woolen Trench Coat with tribal accents",
+                "fabric": "Wool",
+                "texture": "Soft, Warm",
+                "color": "Honey brown with earthy tribal patterns along the collar and cuffs",
+                "gradient": "Solid honey brown",
+                "traditional_aspect": "A sleek and functional design combining traditional patterns with contemporary outerwear, ideal for winter elegance",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474711/output_rhpptk.jpg "
+            },
+            {
+                "item": "Denim jackets with patchwork",
+                "fabric": "Denim",
+                "texture": "Durable, Textured",
+                "color": "Honey brown denim with colorful patchwork",
+                "gradient": "Honey brown to darker brown gradient",
+                "traditional_aspect": "A modern twist to casual wear, great for informal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474803/output_r7cuk8.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Embroidered brocade lehengas",
+                "fabric": "Brocade silk",
+                "texture": "Luxurious, Rich",
+                "color": "Deep honey brown with golden embroidery",
+                "gradient": "Honey brown to gold gradient",
+                "traditional_aspect": "Worn by brides for weddings or formal celebrations",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474888/output_jycj95.jpg"
+            },
+            {
+                "item": "Chanderi silk sarees with floral borders",
+                "fabric": "Chanderi silk",
+                "texture": "Light, Flowing",
+                "color": "Honey brown with floral gold borders",
+                "gradient": "Honey brown to off-white gradient",
+                "traditional_aspect": "Elegant and airy, perfect for summer weddings or daytime celebrations",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733474984/output_doyxij.jpg "
+            },
+            {
+                "item": "Satin lehengas with sequins",
+                "fabric": "Satin",
+                "texture": "Smooth, Lustrous",
+                "color": "Honey brown with sequins scattered throughout",
+                "gradient": "Honey brown to dark caramel gradient",
+                "traditional_aspect": "A modern take on traditional bridal wear for evening events",
+                "img-url": " "
+            },
+            {
+                "item": "Organza sarees with beadwork",
+                "fabric": "Organza",
+                "texture": "Sheer, Delicate",
+                "color": "Soft honey brown with delicate beadwork",
+                "gradient": "Honey brown to ivory gradient",
+                "traditional_aspect": "Perfect for semi-formal functions and evening parties",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733475049/output_vyknli.jpg "
+            },
+            {
+                "item": "Raw silk lehengas with pearl embellishments",
+                "fabric": "Raw silk",
+                "texture": "Rich, Structured",
+                "color": "Honey brown with pearl embroidery",
+                "gradient": "Honey brown to deep gold gradient",
+                "traditional_aspect": "Ideal for weddings and luxurious receptions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733475261/output_bwnf8q.jpg "
+            },
+            {
+                "item": "Brocade silk anarkali suits",
+                "fabric": "Brocade silk",
+                "texture": "Rich, Lustrous",
+                "color": "Honey brown with intricate brocade detailing",
+                "gradient": "Solid honey brown",
+                "traditional_aspect": "Worn at festive and formal events, offering elegance and grace",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733475602/output_dhaqjk.jpg"
+            },
+            {
+                "item": "Taffeta silk saree with floral motifs",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Honey brown with floral designs",
+                "gradient": "Honey brown to deep maroon gradient",
+                "traditional_aspect": "Worn for weddings or elegant evening functions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733475706/output_hyz04d.jpg "
+            },
+            {
+                "item": "Cotton sarees with minimalistic prints",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Honey brown with subtle geometric patterns",
+                "gradient": "Honey brown to light tan gradient",
+                "traditional_aspect": "Perfect for daily wear and casual gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733475826/output_kdrhpe.jpg"
+            },
+            {
+                "item": "Kanchipuram silk sarees with golden zari work",
+                "fabric": "Kanchipuram silk",
+                "texture": "Rich, Lustrous",
+                "color": "Honey brown with rich golden zari",
+                "gradient": "Honey brown to gold gradient",
+                "traditional_aspect": "A traditional choice for weddings and important ceremonies",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733475931/output_ofszu8.jpg"
+            }
+        ]
+    },
+    "Walnut (Deep Brown)": {
+        "Male": [
+            {
+                "item": "Corduroy sherwanis with geometric embroidery",
+                "fabric": "Corduroy",
+                "texture": "Soft, Textured",
+                "color": "Rich walnut brown with subtle geometric designs",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "Ideal for semi-formal or festive gatherings with a modern twist",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472318/output_qsh1c1.jpg"
+            },
+            {
+                "item": "Tweed blazers with leather accents",
+                "fabric": "Tweed, Leather",
+                "texture": "Rough, Durable",
+                "color": "Deep walnut brown with leather detailing",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "Perfect for formal events, providing an elegant and stylish look",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472398/output_kq4dkr.jpg"
+            },
+            {
+                "item": "Cotton kurtas with traditional paisley prints",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Walnut brown with paisley patterns",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "A versatile piece for casual gatherings and cultural events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472431/output_fh1zzd.jpg"
+            },
+            {
+                "item": "Linen kurta sets with minimal embroidery",
+                "fabric": "Linen",
+                "texture": "Crisp, Light",
+                "color": "Warm walnut brown with subtle embroidery",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "Great for daytime events, offering comfort and style",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472485/output_u1qzb7.jpg "
+            },
+            {
+                "item": "Silk kurta with intricate threadwork",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Rich walnut brown with golden threadwork",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "A luxurious piece worn during festivals or formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472518/output_u3ixph.jpg "
+            },
+            {
+                "item": "Cashmere Bomber Jacket with ethnic-inspired trim",
+                "fabric": "Cashmere",
+                "texture": "Soft, Warm",
+                "color": "Walnut brown with a sleek black zipper and subtle geometric trim on the cuffs and hemline",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "A contemporary design blending ethnic accents with a modern silhouette, perfect for casual winter outings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472772/output_zxi62b.jpg"
+            },
+            {
+                "item": "Woolen bandhgalas with button details",
+                "fabric": "Wool",
+                "texture": "Textured, Warm",
+                "color": "Deep walnut brown with intricate button details",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "A sophisticated outerwear option for formal events during winter",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472842/output_bvwmne.jpg"
+            },
+            {
+                "item": "Denim jackets with tribal patchwork",
+                "fabric": "Denim",
+                "texture": "Stiff, Durable",
+                "color": "Walnut brown denim with tribal-inspired patchwork",
+                "gradient": "Walnut brown to dark brown gradient",
+                "traditional_aspect": "Casual wear perfect for informal gatherings or modern events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472848/output_kkta2m.jpg "
+            },
+            {
+                "item": "Suede jackets with gold zippers",
+                "fabric": "Suede",
+                "texture": "Soft, Plush",
+                "color": "Walnut brown with gold zipper accents",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "A stylish jacket option for evening wear or casual gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472928/output_r07xov.jpg "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Silk saree with brocade patterns",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Walnut brown with gold brocade work",
+                "gradient": "Walnut brown to gold gradient",
+                "traditional_aspect": "A luxurious choice for weddings and grand occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733472935/output_jghdsw.jpg "
+            },
+            {
+                "item": "Georgette lehengas with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Flowing, Soft",
+                "color": "Warm walnut brown with subtle floral embroidery",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "Ideal for semi-formal functions and family gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473089/output_ajbauk.jpg"
+            },
+            {
+                "item": "Raw silk anarkali suits with gold accents",
+                "fabric": "Raw silk",
+                "texture": "Rich, Lustrous",
+                "color": "Deep walnut brown with gold threadwork",
+                "gradient": "Walnut brown to dark gold gradient",
+                "traditional_aspect": "A sophisticated look for weddings or festive occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473095/output_z1mddv.jpg"
+            },
+            {
+                "item": "Chiffon sarees with sequins",
+                "fabric": "Chiffon",
+                "texture": "Light, Soft",
+                "color": "Walnut brown with sparkling sequin work",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "Perfect for evening parties or formal functions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473185/output_babv9v.jpg"
+            },
+            {
+                "item": "Taffeta silk lehengas with floral embroidery",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Walnut brown with delicate floral motifs",
+                "gradient": "Walnut brown to dark beige gradient",
+                "traditional_aspect": "A chic and opulent choice for weddings and formal events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473308/output_z93muu.jpg "
+            },
+            {
+                "item": "Brocade silk sarees with zari work",
+                "fabric": "Brocade silk",
+                "texture": "Luxurious, Textured",
+                "color": "Walnut brown with golden zari embroidery",
+                "gradient": "Walnut brown to gold gradient",
+                "traditional_aspect": "A traditional choice for high-profile celebrations and weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473339/output_rytpdh.jpg"
+            },
+            {
+                "item": "Embroidered velvet lehengas",
+                "fabric": "Velvet",
+                "texture": "Rich, Plush",
+                "color": "Dark walnut brown with embroidered accents",
+                "gradient": "Walnut brown to deep burgundy gradient",
+                "traditional_aspect": "A luxurious option for winter weddings or evening events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473442/output_iu9otj.jpg"
+            },
+            {
+                "item": "Satin sarees with stonework",
+                "fabric": "Satin",
+                "texture": "Smooth, Lustrous",
+                "color": "Walnut brown with delicate stonework",
+                "gradient": "Walnut brown to dark bronze gradient",
+                "traditional_aspect": "Elegant and sophisticated for formal evening events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473537/output_eg5sjm.jpg "
+            },
+            {
+                "item": "Kanchipuram silk sarees with zari borders",
+                "fabric": "Kanchipuram silk",
+                "texture": "Rich, Lustrous",
+                "color": "Deep walnut brown with intricate zari borders",
+                "gradient": "Solid walnut brown",
+                "traditional_aspect": "A traditional and revered choice for weddings and ceremonial functions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733473592/output_sxyjq0.jpg "
+            }
+        ]
+    },
+    "Espresso (Very Deep Brown)": {
+        "Male": [
+            {
+                "item": "Velvet bandhgalas with embroidered collars",
+                "fabric": "Velvet",
+                "texture": "Rich, Plush",
+                "color": "Very deep brown with gold thread embroidery",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Perfect for formal evening events and high-profile gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470812/output_hulrky.jpg "
+            },
+            {
+                "item": "Corduroy jackets with leather sleeves",
+                "fabric": "Corduroy, Leather",
+                "texture": "Soft, Textured",
+                "color": "Espresso brown with black leather sleeves",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Stylish and modern choice for informal and semi-formal events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470856/output_cdxwld.jpg"
+            },
+            {
+                "item": "Silk kurta sets with intricate motifs",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Espresso brown with golden motifs",
+                "gradient": "Espresso brown to soft gold gradient",
+                "traditional_aspect": "Worn during weddings or formal religious events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470889/output_bpwp02.jpg "
+            },
+            {
+                "item": "Woolen coats with paisley patterns",
+                "fabric": "Wool",
+                "texture": "Warm, Soft",
+                "color": "Deep espresso brown with paisley patterns",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Great for colder weather and semi-formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470925/output_e2x4mt.jpg "
+            },
+            {
+                "item": "Linen sherwanis with minimalist embroidery",
+                "fabric": "Linen",
+                "texture": "Light, Crisp",
+                "color": "Espresso brown with subtle beige embroidery",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Light and breathable, perfect for daytime weddings and celebrations",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471179/output_pxisuc.jpg "
+            },
+            {
+                "item": "Kashmiri wool overcoat with intricate embroidery",
+                "fabric": "Wool",
+                "texture": "Soft, Insulating",
+                "color": "Espresso brown with subtle gold embroidery",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Perfect for winter gatherings and formal outdoor occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471122/output_xbaai5.jpg"
+            },
+            {
+                "item": "Tailored suit sets with deep brown accents",
+                "fabric": "Wool",
+                "texture": "Smooth, Tailored",
+                "color": "Espresso brown with deep brown accents",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "A contemporary yet classic choice for formal business and social events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471262/output_gqs0rr.jpg"
+            },
+            {
+                "item": "Brocade kurtas with subtle threadwork",
+                "fabric": "Brocade",
+                "texture": "Textured, Rich",
+                "color": "Espresso brown with intricate gold threadwork",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Elegant and traditional attire for festive occasions and weddings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471298/output_ssjnax.jpg "
+            },
+            {
+                "item": "Chino pants with casual cotton shirts",
+                "fabric": "Chino, Cotton",
+                "texture": "Light, Breathable",
+                "color": "Espresso brown chinos with a soft beige shirt",
+                "gradient": "Solid espresso brown",
+                "traditional_aspect": "Casual and comfortable wear for everyday use and informal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471345/output_tvg9hr.jpg "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Raw silk lehengas with thread embroidery",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Espresso brown with delicate gold thread embroidery",
+                "gradient": "Espresso brown to soft beige gradient",
+                "traditional_aspect": "Luxurious traditional wear for weddings and formal functions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471433/output_zfgavv.jpg"
+            },
+            {
+                "item": "Chiffon sarees with floral patterns",
+                "fabric": "Chiffon",
+                "texture": "Soft, Flowing",
+                "color": "Espresso brown with subtle floral patterns",
+                "gradient": "Espresso brown to ivory gradient",
+                "traditional_aspect": "Graceful and elegant, ideal for formal and festive occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471515/output_vt7osh.jpg "
+            },
+            {
+                "item": "Embroidered taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Espresso brown with golden embroidery",
+                "gradient": "Espresso brown to gold gradient",
+                "traditional_aspect": "A classic choice for weddings and formal evening events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471610/output_yyaolo.jpg"
+            },
+            {
+                "item": "Georgette lehengas with mirror work",
+                "fabric": "Georgette, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Espresso brown with mirror work accents",
+                "gradient": "Espresso brown to soft gold gradient",
+                "traditional_aspect": "Popular in festive and wedding wear for a bold, reflective look",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471678/output_i8bqhw.jpg "
+            },
+            {
+                "item": "Satin sarees with lace details",
+                "fabric": "Satin",
+                "texture": "Smooth, Lustrous",
+                "color": "Espresso brown with lace detailing",
+                "gradient": "Espresso brown to deep burgundy gradient",
+                "traditional_aspect": "Ideal for evening parties and high-end weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471765/output_j6qusw.jpg"
+            },
+            {
+                "item": "Brocade silk lehengas with zari borders",
+                "fabric": "Brocade silk",
+                "texture": "Textured, Rich",
+                "color": "Espresso brown with golden zari borders",
+                "gradient": "Espresso brown to dark gold gradient",
+                "traditional_aspect": "A luxurious and regal option for weddings and grand occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471779/output_strksy.jpg"
+            },
+            {
+                "item": "Raw silk anarkalis with beadwork",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Soft",
+                "color": "Deep espresso brown with intricate beadwork",
+                "gradient": "Espresso brown to gold gradient",
+                "traditional_aspect": "Worn during traditional functions and ceremonies, offering sophistication",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471847/output_q0if2c.jpg"
+            },
+            {
+                "item": "Velvet sarees with floral embroidery",
+                "fabric": "Velvet",
+                "texture": "Soft, Plush",
+                "color": "Espresso brown with floral embroidery",
+                "gradient": "Espresso brown to deep burgundy gradient",
+                "traditional_aspect": "Luxurious velvet sarees are perfect for winter weddings and evening galas",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471935/output_kvysjj.jpg "
+            },
+            {
+                "item": "Chiffon lehengas with sequin work",
+                "fabric": "Chiffon, Sequin work",
+                "texture": "Soft, Flowing",
+                "color": "Espresso brown with silver sequin accents",
+                "gradient": "Espresso brown to silver gradient",
+                "traditional_aspect": "Glamorous and perfect for evening functions or cocktail parties",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733471992/output_s420gl.jpg"
+            }
+        ]
+    },
+    "Chestnut (Very Deep Brown-Cool)": {
+        "Male": [
+            {
+                "item": "Linen Pathani Suit with subtle detailing",
+                "fabric": "Linen",
+                "texture": "Breathable, Textured",
+                "color": "Charcoal grey with minimal ivory accents",
+                "gradient": "Charcoal to slate grey gradient",
+                "traditional_aspect": "Sharp and understated, ideal for casual to semi-formal occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470757/output_tauwxn.jpg"
+            },
+            {
+                "item": "Corduroy sherwanis with suede accents",
+                "fabric": "Corduroy, Suede",
+                "texture": "Textured, Soft",
+                "color": "Chestnut brown with brown suede accents",
+                "gradient": "Chestnut brown to beige gradient",
+                "traditional_aspect": "A more modern take on the traditional sherwani, ideal for cooler months",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470347/output_y5zrh6.jpg"
+            },
+            {
+                "item": "Satin silk kurta sets with embossed designs",
+                "fabric": "Satin silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Chestnut brown with embossed golden designs",
+                "gradient": "Chestnut brown to gold gradient",
+                "traditional_aspect": "Worn during weddings or high-profile ceremonies, exuding luxury",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470298/output_rtglrt.jpg"
+            },
+            {
+                "item": "Double-breasted bandhgalas",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Structured",
+                "color": "Dark brown with golden threadwork",
+                "gradient": "Chestnut brown to gold gradient",
+                "traditional_aspect": "Bandhgalas are perfect for weddings and royal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470241/output_hiqbs9.jpg "
+            },
+            {
+                "item": "Cotton kurtas with minimalistic prints",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Chestnut brown with off-white motifs",
+                "gradient": "Chestnut brown to light beige gradient",
+                "traditional_aspect": "Casual kurtas for everyday wear and informal occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470191/output_vs2jz1.jpg"
+            },
+            {
+                "item": "Woolen jackets with embroidered collars",
+                "fabric": "Wool",
+                "texture": "Warm, Textured",
+                "color": "Chestnut brown with subtle gold embroidery",
+                "gradient": "Chestnut brown to soft beige gradient",
+                "traditional_aspect": "Great for winter weddings and evening events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733470064/output_nnddkx.jpg"
+            },
+            {
+                "item": "Casual linen shirts with minimalist designs",
+                "fabric": "Linen",
+                "texture": "Light, Breathable",
+                "color": "Chestnut brown with pale blue accents",
+                "gradient": "Chestnut brown to pale blue gradient",
+                "traditional_aspect": "Perfect for semi-casual gatherings and day events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733469970/output_ho5jhg.jpg"
+            },
+            {
+                "item": "Khadi kurtas with wood button accents",
+                "fabric": "Khadi",
+                "texture": "Natural, Soft",
+                "color": "Chestnut brown with natural wooden buttons",
+                "gradient": "Chestnut brown to light brown gradient",
+                "traditional_aspect": "Traditional khadi kurtas for day-to-day wear and semi-formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733469089/output_shtvya.jpg"
+            },
+            {
+                "item": "V-neck silk tunics with fine embroidery",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Chestnut brown with fine gold embroidery",
+                "gradient": "Chestnut brown to light gold gradient",
+                "traditional_aspect": "Elegant tunics for formal functions and evening events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733469034/output_iidhkb.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Georgette lehengas with intricate beadwork",
+                "fabric": "Georgette",
+                "texture": "Flowing, Soft",
+                "color": "Chestnut brown with gold beadwork",
+                "gradient": "Chestnut brown to ivory gradient",
+                "traditional_aspect": "Elegant and ideal for weddings and festive occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468945/output_hzm6s4.jpg "
+            },
+            {
+                "item": "Silk sarees with tonal borders",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Chestnut brown with dark brown tonal borders",
+                "gradient": "Chestnut brown to deep brown gradient",
+                "traditional_aspect": "Traditional attire for formal events and weddings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468816/output_onog6t.jpg "
+            },
+            {
+                "item": "Taffeta silk lehengas with floral embroidery",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Chestnut brown with floral gold embroidery",
+                "gradient": "Chestnut brown to gold gradient",
+                "traditional_aspect": "Opulent lehengas ideal for weddings and special celebrations",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468721/output_pnun3i.jpg "
+            },
+            {
+                "item": "Raw silk anarkalis with lace details",
+                "fabric": "Raw silk",
+                "texture": "Rich, Lustrous",
+                "color": "Chestnut brown with lace borders",
+                "gradient": "Chestnut brown to beige gradient",
+                "traditional_aspect": "Anarkalis are often worn during formal functions or family celebrations",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468407/output_h5g2na.jpg"
+            },
+            {
+                "item": "Chiffon sarees with sequin accents",
+                "fabric": "Chiffon",
+                "texture": "Soft, Flowing",
+                "color": "Chestnut brown with golden sequin accents",
+                "gradient": "Chestnut brown to gold gradient",
+                "traditional_aspect": "Great for evening functions and semi-formal parties",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468301/output_qsvaxd.jpg"
+            },
+            {
+                "item": "Velvet lehengas with zari embroidery",
+                "fabric": "Velvet",
+                "texture": "Soft, Plush",
+                "color": "Chestnut brown with gold zari embroidery",
+                "gradient": "Chestnut brown to gold gradient",
+                "traditional_aspect": "Luxurious velvet lehengas for winter weddings and evening galas",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468240/output_b7l8pp.jpg "
+            },
+            {
+                "item": "Brocade sarees with antique motifs",
+                "fabric": "Brocade",
+                "texture": "Textured, Rich",
+                "color": "Chestnut brown with antique gold motifs",
+                "gradient": "Chestnut brown to gold gradient",
+                "traditional_aspect": "Perfect for formal weddings and ceremonial events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468152/output_yr5mb1.jpg "
+            },
+            {
+                "item": "Satin lehengas with floral lacework",
+                "fabric": "Satin",
+                "texture": "Smooth, Shiny",
+                "color": "Chestnut brown with floral lace accents",
+                "gradient": "Chestnut brown to off-white gradient",
+                "traditional_aspect": "Ideal for grand occasions and celebratory events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468078/output_hydkvs.jpg "
+            },
+            {
+                "item": "Chiffon dupattas with mirror work",
+                "fabric": "Chiffon",
+                "texture": "Soft, Flowing",
+                "color": "Chestnut brown with mirror work",
+                "gradient": "Chestnut brown to ivory gradient",
+                "traditional_aspect": "Perfect for pairing with sarees and lehengas during weddings and festivals",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733468008/output_e1rfyx.jpg "
+            }
+        ]
+    },
+    "Mocha (Deep Brown-Warm)": {
+        "Male": [
+            {
+                "item": "Cotton kurtas with printed motifs",
+                "fabric": "Cotton",
+                "texture": "Soft, Breathable",
+                "color": "Deep blues and greens with floral prints",
+                "gradient": "Deep blues and greens to white gradient",
+                "traditional_aspect": "Cotton kurtas are traditional attire for casual and semi-formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467818/output_zpflnk.jpg"
+            },
+            {
+                "item": "Linen sherwanis",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Soft beige with embroidered patterns",
+                "gradient": "Subtle gradient from beige to white",
+                "traditional_aspect": "Linen sherwanis are comfortable yet elegant options for warm weather events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467763/output_bvar3v.jpg"
+            },
+            {
+                "item": "Bright colored silk kurta sets",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Bright red, Emerald green",
+                "gradient": "From red to a golden hue",
+                "traditional_aspect": "Silk kurtas are worn during formal events like weddings and religious festivals",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467679/output_jrqacn.jpg"
+            },
+            {
+                "item": "Printed bandhgalas with motifs",
+                "fabric": "Silk, Cotton",
+                "texture": "Smooth, Printed",
+                "color": "Light blue with intricate gold motifs",
+                "gradient": "Gradient from blue to white",
+                "traditional_aspect": "Bandhgalas are typically worn at weddings or formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467554/output_buhqry.jpg"
+            },
+            {
+                "item": "Casual cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Soft green with minimal embroidery",
+                "gradient": "From light green to white",
+                "traditional_aspect": "Casual kurtas are often worn for daily wear and informal occasions",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467519/output_xmn10l.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Bright lehengas with silk textures",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Vibrant red with golden embroidery",
+                "gradient": "Red fading into gold",
+                "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467474/output_bf5c1u.jpg"
+            },
+            {
+                "item": "Georgette sarees with floral motifs",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Peach with floral embroidery",
+                "gradient": "Peach to soft pink gradient",
+                "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467446/output_rkhjwl.jpg"
+            },
+            {
+                "item": "Embroidered raw silk lehengas",
+                "fabric": "Raw silk",
+                "texture": "Lustrous, Rich",
+                "color": "Deep maroon, Gold",
+                "gradient": "Gold gradient from the base to the border",
+                "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467279/output_yenbfw.jpg"
+            },
+            {
+                "item": "Chiffon sarees with mirror work",
+                "fabric": "Chiffon, Mirror work",
+                "texture": "Flowing, Reflective",
+                "color": "Soft gold base with mirror work",
+                "gradient": "Soft gradient from light gold to ivory",
+                "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467219/output_ykn78q.jpg "
+            },
+            {
+                "item": "Taffeta silk sarees",
+                "fabric": "Taffeta silk",
+                "texture": "Crisp, Shiny",
+                "color": "Vibrant red with gold borders",
+                "gradient": "Deep red fading into a rich gold",
+                "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467116/output_q0qpm6.jpg"
+            }
+        ]
+    },
+    "Mahogany (Very Deep Brown-Warm)": {
+        "Male": [
+            {
+                "item": "Kashmiri embroidered woolen kurtas",
+                "fabric": "Wool",
+                "texture": "Warm, Soft",
+                "color": "Deep brown with intricate Kashmiri embroidery",
+                "gradient": "Mahogany brown to soft beige gradient",
+                "traditional_aspect": "A blend of warmth and elegance, ideal for winter celebrations and formal gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733467070/output_oplpve.jpg"
+            },
+            {
+                "item": "Velvet bandhgalas with brocade work",
+                "fabric": "Velvet, Brocade",
+                "texture": "Luxurious, Plush",
+                "color": "Mahogany brown with gold brocade patterns",
+                "gradient": "Deep mahogany fading into soft gold",
+                "traditional_aspect": "A regal and stylish option for evening weddings or formal events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466981/output_variia.jpg "
+            },
+            {
+                "item": "Silk kurtas with zari embroidery",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Deep mahogany with gold zari embroidery",
+                "gradient": "Mahogany brown to gold gradient",
+                "traditional_aspect": "Ideal for festive occasions and weddings, exuding luxury",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466934/output_hovh8l.jpg"
+            },
+            {
+                "item": "Chanderi silk sherwanis",
+                "fabric": "Chanderi Silk",
+                "texture": "Delicate, Shiny",
+                "color": "Mahogany brown with silver accents",
+                "gradient": "Soft mahogany to silver gradient",
+                "traditional_aspect": "Chanderi silk sherwanis are perfect for high-profile events and weddings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466895/output_c98ope.jpg"
+            },
+            {
+                "item": "Jute kurtas with minimalistic designs",
+                "fabric": "Jute",
+                "texture": "Rough, Eco-friendly",
+                "color": "Mahogany brown with subtle earthy patterns",
+                "gradient": "Mahogany brown to natural jute gradient",
+                "traditional_aspect": "An eco-friendly, comfortable option for casual gatherings and eco-conscious events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466862/output_ozkddt.jpg "
+            }
+        ],
+        "Female": [
+            {
+                "item": "Brocade lehengas with zari work",
+                "fabric": "Brocade",
+                "texture": "Rich, Textured",
+                "color": "Mahogany brown with gold zari work",
+                "gradient": "Mahogany brown to gold gradient",
+                "traditional_aspect": "A classic choice for weddings and grand celebrations, combining luxury and tradition",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466807/output_gpxngz.jpg"
+            },
+            {
+                "item": "Satin sarees with stone embellishments",
+                "fabric": "Satin",
+                "texture": "Smooth, Glossy",
+                "color": "Rich mahogany with stone and bead embellishments",
+                "gradient": "Mahogany fading into dark red gradient",
+                "traditional_aspect": "Perfect for evening events and upscale weddings, offering a sophisticated and glamorous look",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466733/output_ycndyj.jpg"
+            },
+            {
+                "item": "Silk anarkalis with embroidered borders",
+                "fabric": "Silk",
+                "texture": "Smooth, Lustrous",
+                "color": "Deep mahogany with embroidered gold borders",
+                "gradient": "Mahogany brown to rich gold gradient",
+                "traditional_aspect": "A refined choice for formal events and weddings, blending elegance with cultural heritage",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466679/output_lu9hjz.jpg"
+            },
+            {
+                "item": "Georgette sarees with threadwork",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Mahogany brown with delicate thread embroidery",
+                "gradient": "Mahogany brown to ivory gradient",
+                "traditional_aspect": "Worn during traditional and festive occasions, these sarees offer grace and fluidity",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466569/output_dpe2zb.jpg"
+            },
+            {
+                "item": "Chiffon lehengas with mirror and beadwork",
+                "fabric": "Chiffon",
+                "texture": "Flowing, Reflective",
+                "color": "Mahogany brown with mirror and bead embellishments",
+                "gradient": "Mahogany brown to ivory gradient",
+                "traditional_aspect": "Chiffon lehengas are an elegant choice for weddings and festive gatherings",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466511/output_ztuvfc.jpg"
+            }
+        ]
+    },
+    "Sable (Almost Black)": {
+        "Male": [
+            {
+                "item": "Woolen shawl-collared bandhgala",
+                "fabric": "Wool",
+                "texture": "Warm, Plush",
+                "color": "Dark sable with subtle threadwork",
+                "gradient": "Sable brown to black gradient",
+                "traditional_aspect": "A sophisticated and warm option for winter weddings and evening events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466455/output_s2hvcm.jpg"
+            },
+            {
+                "item": "Embroidered velvet kurta sets",
+                "fabric": "Velvet",
+                "texture": "Soft, Luxurious",
+                "color": "Deep sable with silver embroidery",
+                "gradient": "Sable to charcoal gradient",
+                "traditional_aspect": "A formal choice for weddings and evening celebrations, combining elegance with comfort",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466390/output_io3fk6.jpg"
+            },
+            {
+                "item": "Georgette silk sherwanis with handwork",
+                "fabric": "Silk, Georgette",
+                "texture": "Crisp, Shiny",
+                "color": "Deep sable with gold handwork",
+                "gradient": "Sable to dark gold gradient",
+                "traditional_aspect": "Worn for high-profile weddings, this sherwani offers a regal, luxurious appeal",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466318/output_zfnkds.jpg"
+            },
+            {
+                "item": "Cashmere kurta-pajama sets",
+                "fabric": "Cashmere",
+                "texture": "Soft, Warm",
+                "color": "Sable with embroidered borders",
+                "gradient": "Sable fading into soft cream",
+                "traditional_aspect": "Ideal for cooler seasons and formal gatherings, offering both comfort and style",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466257/output_w8ekod.jpg"
+            },
+            {
+                "item": "Brocade bandhgalas with stonework",
+                "fabric": "Brocade",
+                "texture": "Heavy, Rich",
+                "color": "Deep sable with stone embellishments",
+                "gradient": "Sable to gold gradient",
+                "traditional_aspect": "A formal piece, perfect for weddings and grand celebrations",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466228/output_kccqrw.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Satin lehengas with floral embroidery",
+                "fabric": "Satin",
+                "texture": "Glossy, Smooth",
+                "color": "Deep sable with intricate floral embroidery",
+                "gradient": "Sable brown fading into soft pink",
+                "traditional_aspect": "Worn by brides and for grand weddings, offering an opulent appearance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466170/output_esbpae.jpg"
+            },
+            {
+                "item": "Chiffon sarees with lacework",
+                "fabric": "Chiffon",
+                "texture": "Flowing, Light",
+                "color": "Soft sable with delicate lacework",
+                "gradient": "Sable to soft beige gradient",
+                "traditional_aspect": "A formal saree for evening parties and upscale events, combining grace and subtle elegance",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466167/output_nfywcy.jpg"
+            },
+            {
+                "item": "Taffeta silk lehengas",
+                "fabric": "Taffeta Silk",
+                "texture": "Crisp, Shiny",
+                "color": "Deep sable with silver accents",
+                "gradient": "Sable brown fading into platinum silver",
+                "traditional_aspect": "Perfect for weddings and celebratory events, exuding luxury and high-class style",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733466028/output_u8vonr.jpg"
+            },
+            {
+                "item": "Raw silk sarees with embroidered borders",
+                "fabric": "Raw Silk",
+                "texture": "Rich, Lustrous",
+                "color": "Sable with gold embroidery",
+                "gradient": "Sable fading to deep maroon gradient",
+                "traditional_aspect": "A refined option for weddings and formal occasions, signifying elegance and luxury",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465978/output_ekjx1k.jpg"
+            },
+            {
+                "item": "Georgette lehengas with beadwork",
+                "fabric": "Georgette",
+                "texture": "Soft, Flowing",
+                "color": "Dark sable with subtle beadwork",
+                "gradient": "Sable to ivory gradient",
+                "traditional_aspect": "Worn for traditional and festive occasions, offering an elegant yet modern look",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465942/output_xqqdim.jpg"
+            }
+        ]
+    },
+    "Ebony (Black)": {
+        "Male": [
+            {
+                "item": "Tweed woolen blazer",
+                "fabric": "Wool",
+                "texture": "Soft, Warm",
+                "color": "Black with checkered pattern",
+                "gradient": "Black fading into charcoal gradient",
+                "traditional_aspect": "A sophisticated piece suitable for evening events and formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465901/output_zh0tkj.jpg"
+            },
+            {
+                "item": "Heavy linen kurtas with contrast borders",
+                "fabric": "Linen",
+                "texture": "Crisp, Breathable",
+                "color": "Ebony with red contrast borders",
+                "gradient": "Ebony fading into light gray gradient",
+                "traditional_aspect": "Linen kurtas are a versatile choice for both casual and formal summer events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465873/output_yqkio9.jpg"
+            },
+            {
+                "item": "Pashmina shawl-collared kurta",
+                "fabric": "Pashmina, Silk",
+                "texture": "Soft, Luxurious",
+                "color": "Deep ebony with silver embroidery",
+                "gradient": "Ebony to dark gray gradient",
+                "traditional_aspect": "A stylish choice for winter weddings and formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465805/output_mwvzlt.jpg "
+            },
+            {
+                "item": "Brocade bandhgalas with embroidery",
+                "fabric": "Brocade",
+                "texture": "Rich, Textured",
+                "color": "Ebony with gold floral embroidery",
+                "gradient": "Ebony to gold gradient",
+                "traditional_aspect": "Bandhgalas are worn at weddings and cultural ceremonies, combining tradition with elegance",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465711/output_t36wdq.jpg"
+            },
+            {
+                "item": "Straight cut cotton kurtas",
+                "fabric": "Cotton",
+                "texture": "Light, Breathable",
+                "color": "Ebony with white stitching",
+                "gradient": "Ebony to off-white gradient",
+                "traditional_aspect": "A casual yet refined option for everyday wear and informal events",
+                "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465645/output_pphki2.jpg"
+            }
+        ],
+        "Female": [
+            {
+                "item": "Satin lehengas with beadwork",
+                "fabric": "Satin",
+                "texture": "Smooth, Glossy",
+                "color": "Ebony with silver beadwork",
+                "gradient": "Ebony to silver gradient",
+                "traditional_aspect": "A luxurious option for weddings and gala events",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465599/output_shhfuv.jpg "
+            },
+            {
+                "item": "Silk sarees with intricate zari work",
+                "fabric": "Silk",
+                "texture": "Soft, Lustrous",
+                "color": "Ebony with gold zari work",
+                "gradient": "Ebony fading into gold gradient",
+                "traditional_aspect": "Silk sarees are a classic choice for weddings and formal gatherings",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465480/output_s0a2q7.jpg "
+            },
+            {
+                "item": "Chiffon lehengas with mirror embroidery",
+                "fabric": "Chiffon",
+                "texture": "Light, Flowing",
+                "color": "Deep ebony with mirror embroidery",
+                "gradient": "Ebony to ivory gradient",
+                "traditional_aspect": "Perfect for wedding receptions and grand events, offering elegance with a modern twist",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465382/output_jlybfz.jpg"
+            },
+            {
+                "item": "Georgette sarees with sequins",
+                "fabric": "Georgette",
+                "texture": "Flowing, Lightweight",
+                "color": "Ebony with silver sequins",
+                "gradient": "Ebony to platinum gradient",
+                "traditional_aspect": "Worn for festive occasions and evening events, providing a glamorous touch",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465293/output_w4f9je.jpg"
+            },
+            {
+                "item": "Taffeta silk lehengas",
+                "fabric": "Taffeta Silk",
+                "texture": "Crisp, Shiny",
+                "color": "Ebony with gold accents",
+                "gradient": "Ebony fading into rich gold gradient",
+                "traditional_aspect": "A perfect blend of traditional and contemporary styles for weddings and formal occasions",
+                "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733465333/output_kt0l6y.jpg"
+            }
+        ]
+    }
+}

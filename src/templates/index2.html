@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fashion Recommendation</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: "Bookman Old Style", "sans-serif";
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow-y: auto;
+    }
+
+    h1 {
+      background: #ffffff6b;
+      backdrop-filter: blur(20px);
+      animation: moveText 10s infinite alternate-reverse linear;
+      font-size: 40px;
+      width: max-content;
+      padding: 20px;
+      bottom: 200px;
+      z-index: 2;
+      filter: drop-shadow(10px 7px 20px rgb(7, 240, 53));
+    }
+
+    @keyframes moveText {
+      0% {
+        transform: translateX(0);
+      }
+
+      100% {
+        transform: translateX(15%);
+      }
+    }
+
+    .section-container {
+      width: 100%;
+      height: 100vh;
+      display: table-row;
+    }
+
+    .section {
+      display: table-cell;
+      vertical-align: middle;
+      padding: 20px;
+      position: relative;
+      align-content: center;
+      justify-content: center;
+    }
+
+    #upload-section-container {
+      position: relative;
+      /* Changed to relative */
+      justify-content: center;
+      align-content: center;
+      padding: 20px;
+      margin: 20px auto;
+      text-align: center;
+      max-width: 500px;
+      background-color: transparent;
+      border-radius: 20px;
+      backdrop-filter: blur(100px);
+    }
+
+    #upload-section {
+      width: 100%;
+      /* Adjust max width */
+      padding: 20px;
+      position: relative;
+    }
+
+    .upload-items {
+      margin: 10px;
+    }
+
+    #live-video {
+      position: relative;
+      left: 9%;
+    }
+
+    #capture-btn,
+    #upload-btn {
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 12px 0;
+      background-color: #66bb6a;
+      color: white;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #image-preview {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      background: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .placeholder-image {
+      width: 100%;
+      height: 200px;
+      background: #f9f9f9;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 24px;
+      color: #ccc;
+    }
+
+    #result-section {
+      background: transparent;
+      border-radius: 10px;
+      filter: drop-shadow(10px 10px 10px orangered);
+      backdrop-filter: blur(10000px);
+      max-width: 1250px;
+      margin: 0 auto;
+      padding: 40px;
+    }
+
+    .result-heading {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    #result-section img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 10px;
+      margin-bottom: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    button,
+    input[type="file"] {
+      padding: 10px 20px;
+      margin: 10px 5px;
+      border: none;
+      border-radius: 5px;
+      background-color: #66bb6a;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    button:hover,
+    input[type="file"]:hover {
+      background-color: #43a047;
+      transform: scale(1.05);
+    }
+
+    .clothing-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .clothing-card {
+      background: #f9f9f9;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .clothing-card:hover {
+      transform: scale(3.01);
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+    }
+
+    .card-content {
+      padding: 20px;
+      font-size: 18px;
+      color: #666;
+    }
+
+    .clothing-card:hover .card-content {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateY(20px);
+        opacity: 0;
+      }
+
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    .error {
+      color: red;
+      margin-top: 10px;
+      text-align: center;
+      animation: shake 0.5s ease;
+    }
+
+    @keyframes shake {
+      0% {
+        transform: translateX(0);
+      }
+
+      20% {
+        transform: translateX(-10px);
+      }
+
+      40% {
+        transform: translateX(10px);
+      }
+
+      60% {
+        transform: translateX(-10px);
+      }
+
+      80% {
+        transform: translateX(10px);
+      }
+
+      100% {
+        transform: translateX(0);
+      }
+    }
+
+    canvas {
+      display: none;
+    }
+
+    #detected-face-image {
+      width: 300px;
+      height: 300px;
+      border-radius: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    @keyframes spin {
+      from {
+        transform: rotate(0deg);
+      }
+
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .icon {
+      font-size: 18px;
+      margin-right: 10px;
+    }
+
+    .fa-camera {
+      animation: flash 2s ease infinite;
+    }
+
+    @keyframes flash {
+      0% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0.5;
+      }
+
+      100% {
+        opacity: 1;
+      }
+    }
+
+    .image-background {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: -1;
+      backdrop-filter: blur(5px);
+    }
+  </style>
+</head>
+<body>
+  <table style="width: 100%; height: 100vh; border-collapse: collapse;">
+    <tr class="section-container">
+      <td class="section">
+        <img class="image-background" src="../static/d7ecd505-8ff7-410c-b248-c0cee333a55e.jpeg" alt="Background Image">
+        <h1 class="h1">PERSONALIZED AI FASHION RECOMMENDATION</h1>
+        <div id="upload-section-container">
+          <div id="upload-section">
+            <table style="width: 100%; height: 100%;">
+              <tr class="upload-features">
+                <td>
+                  <input type="file" id="file-input" class="upload-items" accept="image/*" style="display: none;">
+                  <button id="upload-btn" class="upload-items" style="width: 200px;">Upload Image</button>
+                  <button id="start-camera-btn" class="upload-items" style="width: 200px;">Start Camera</button>
+                </td>
+              </tr>
+              <tr id="camera-buttons" style="display: none;">
+                <td>
+                  <button id="capture-btn" class="upload-items" style="width: 200px;">Capture Image</button>
+                  <button id="upload-captured-btn" class="upload-items" style="width: 200px;">Upload Captured
+                    Image</button>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <video id="live-video" width="400" height="300" style="display: none;" autoplay></video>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <img id="image-preview" class="upload-items" src="" alt="Image Preview" style="display: none;">
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <button id="back-btn" style="display: none;">Back</button>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table style="width: 100%; height: 100vh; border-collapse: collapse;">
+          <tr class="section-container">
+            <td class="section">
+              <!-- <img class="image-background" src="../static/clothbg1.jpg" alt="Background Image"> -->
+              <div id="result-section-container">
+                <div id="result-section">
+                  <h2>Results</h2>
+                  <img id="detected-face-image" src="" alt="Detected Face Image">
+                  <p class="result-attribute"><strong>Gender:</strong> <span id="gender"
+                      class="result-attribute"></span> <i class="fas fa-venus-mars icon"></i></p>
+                  <p class="result-attribute"><strong>Skin Tone:</strong> <span id="skin-tone"
+                      class="result-attribute"></span>
+                    <i class="fas fa-palette icon"></i>
+                  </p>
+                  <h3>Recommended Clothing <i class="fas fa-tshirt icon"></i></h3>
+                  <div id="clothing-styles" class="clothing-grid"></div>
+                  <button id="downloadJsonButton">Download Clothing Styles</button>
+                  <p class="error" id="error-message"></p>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <canvas id="canvas">
+    <video id="video" width="640" height="480" style="display: none;"></video>
+  </canvas>
+<script>
+    const fileInput = document.getElementById('file-input');
+    const uploadButton = document.getElementById('upload-btn');
+    const startCameraButton = document.getElementById('start-camera-btn');
+    const captureButton = document.getElementById('capture-btn');
+    const uploadCapturedButton = document.getElementById('upload-captured-btn');
+    const cameraButtons = document.getElementById('camera-buttons');
+    const resultSection = document.getElementById('result-section');
+    const detectedFaceImage = document.getElementById('detected-face-image');
+    const genderElement = document.getElementById('gender');
+    const skinToneElement = document.getElementById('skin-tone');
+    const clothingStylesElement = document.getElementById('clothing-styles');
+    const errorMessage = document.getElementById('error-message');
+    const canvas = document.getElementById('canvas');
+    const context = canvas.getContext('2d');
+    const imagePreview = document.getElementById('image-preview');
+    const uploadSection = document.getElementById('upload-section');
+    const resultSectionContainer = document.getElementById('result-section-container');
+    const video = document.getElementById('video');
+    const liveVideo = document.getElementById('live-video');
+    const backButton = document.getElementById('back-btn');
+
+    let capturedImageData = null; // Store the captured image data
+
+    // Add event listener to the upload button
+    uploadButton.addEventListener('click', () => {
+        fileInput.click();
+    });
+
+    // Add event listener to the file input
+    fileInput.addEventListener('change', () => {
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+        reader.onload = () => {
+            const imageData = reader.result;
+            // Show the selected image in the preview area and hide the live video
+            imagePreview.src = imageData;
+            imagePreview.style.display = 'block';
+            liveVideo.style.display = 'none';
+            video.style.display = 'none';
+            backButton.style.display = 'block';
+            sendImageToServer(imageData);
+        };
+        reader.readAsDataURL(file);
+    });
+
+    // Add event listener to the start camera button
+    startCameraButton.addEventListener('click', () => {
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(stream => {
+                liveVideo.srcObject = stream;
+                liveVideo.style.display = 'block';
+                video.style.display = 'none';
+                imagePreview.style.display = 'none';
+                backButton.style.display = 'block';
+                cameraButtons.style.display = 'table-row';
+            })
+            .catch(error => {
+                console.error('Error getting user media:', error);
+            });
+    });
+
+    // Add event listener to the capture button
+    captureButton.addEventListener('click', () => {
+        const canvas = document.createElement('canvas');
+        canvas.width = liveVideo.width;
+        canvas.height = liveVideo.height;
+        const context = canvas.getContext('2d');
+        context.drawImage(liveVideo, 0, 0, canvas.width, canvas.height);
+
+        capturedImageData = canvas.toDataURL('image/jpeg');
+        imagePreview.src = capturedImageData;
+        imagePreview.style.display = 'block';
+        liveVideo.style.display = 'none';
+        video.style.display = 'none';
+        backButton.style.display = 'block';
+    });
+
+    // Add event listener to the upload captured button
+    uploadCapturedButton.addEventListener('click', () => {
+        sendImageToServer(capturedImageData);
+    });
+
+    // Handle the back button click event
+    backButton.addEventListener('click', () => {
+        imagePreview.style.display = 'none';
+        liveVideo.style.display = 'none';
+        video.style.display = 'none';
+        backButton.style.display = 'none';
+        cameraButtons.style.display = 'none';
+
+        const stream = liveVideo.srcObject;
+        if (stream) {
+            const tracks = stream.getTracks();
+            tracks.forEach(track => track.stop());
+            liveVideo.srcObject = null;
+        }
+
+        fileInput.value = '';
+    });
+
+    // Function to send image to the server
+    function sendImageToServer(imageData) {
+        fetch('/detect_face', {
+            method: 'POST',
+            body: new URLSearchParams({ 'image': imageData })
+        })
+            .then(response => response.json())
+            .then(data => updateUI(data))
+            .catch(err => {
+                errorMessage.textContent = `Error: ${err.message}`;
+                resultSection.style.display = 'block';
+            });
+    }
+
+    // Update UI after receiving data from the server
+    function updateUI(data) {
+        resultSection.style.display = 'block';
+        detectedFaceImage.src = `data:image/jpeg;base64,${data.detected_face_image}`;
+        detectedFaceImage.style.display = 'block';
+
+    // Set detected skin tone and gender with defensive checks
+    const skinToneRaw = data.skin_tone || data.skinTone || '';
+    const skinTone = String(skinToneRaw).toLowerCase();
+    const gender = data.gender || '';
+
+    skinToneElement.textContent = skinToneRaw || 'Unknown';
+    genderElement.textContent = gender || 'Unknown';
+
+    // Determine clothing styles from possible server response shapes.
+    // Server may return a nested object keyed by skin tone and gender,
+    // or a flat `clothing_styles` array. Handle both safely.
+    let clothingStyles = [];
+    if (Array.isArray(data.clothing_styles) && data.clothing_styles.length) {
+      clothingStyles = data.clothing_styles;
+    } else if (skinTone && gender && data[skinTone] && data[skinTone][gender]) {
+      clothingStyles = data[skinTone][gender]['Casuals'] || [];
+    } else {
+      errorMessage.textContent = 'No clothing styles found for the detected skin tone and gender.';
+      resultSection.style.display = 'block';
+      return;
+    }
+
+        // Clear previous clothing styles
+        clothingStylesElement.innerHTML = '';
+
+    // Loop through each clothing style and create a card
+    clothingStyles.forEach((style, index) => {
+            const card = document.createElement('div');
+            card.className = 'clothing-card';
+            card.style.animationDelay = `${index * 0.2}s`;
+
+                   card.innerHTML = `
+            <div class="card-content">
+                ${style['img-url'] ?
+                    `<img src="${style['img-url']}" alt="${style.outfit}" class="clothing-image">` :
+                    `<p>No image available</p>`
+                }
+                <p><strong>Outfit:</strong> ${style.outfit}</p>
+                <p><strong>Fabric:</strong> ${style.fabric}</p>
+                <p><strong>Texture:</strong> ${style.texture}</p>
+                <p><strong>Color:</strong> ${style.color}</p>
+                <p><strong>Accessories:</strong> ${style.accessories}</p>
+                <p><strong>Style:</strong> ${style.gradient}</p>
+                <p><strong>Occasion:</strong> ${style.occasion}</p>
+                <p><strong>Season:</strong> ${style.season}</p>
+            </div>
+        `;
+
+            clothingStylesElement.appendChild(card);
+        });
+
+        resultSectionContainer.scrollIntoView({ behavior: 'smooth' });
+    }
+    document.getElementById('downloadJsonButton').addEventListener('click', function () {
+  // Call the generate_clothing_styles_json endpoint
+  fetch('/generate_clothing_styles_json')
+    .then(response => {
+      if (response.ok) {
+        return response.blob(); // Get the response as a Blob
+      }
+      throw new Error('Failed to fetch JSON. Please check the server response.');
+    })
+    .then(blob => {
+      // Create a Blob URL
+      const url = window.URL.createObjectURL(blob);
+
+      // Generate a unique filename
+      const filename = `clothing_styles_${Date.now()}_${Math.floor(Math.random() * 1000)}.json`;
+
+      // Create a link element to download the file
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename; // Set the file name
+      document.body.appendChild(a);
+      a.click(); // Programmatically click the link to trigger the download
+      a.remove(); // Remove the link from the document
+
+      // Revoke the Blob URL to free memory
+      window.URL.revokeObjectURL(url);
+    })
+    .catch(error => {
+      console.error('Error downloading JSON:', error);
+
+      // Optionally, inform the user about the error
+      alert('Failed to download the file. Please try again later.');
+    });
+});
+</script>
+</body>
+
+</html>

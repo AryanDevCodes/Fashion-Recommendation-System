@@ -1,0 +1,12 @@
+# Requirements for app1.py
+flask
+flask-cors
+opencv-python
+numpy
+Pillow
+requests
+tensorflow
+
+# Notes:
+# - On headless servers, consider using opencv-python-headless instead of opencv-python.
+# - If you have GPU support and want GPU-accelerated TensorFlow, follow TensorFlow's GPU install guide instead of the plain `tensorflow` package.

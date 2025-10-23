@@ -1,0 +1,96 @@
+{
+    "gender": "Female",
+    "skin_tone": "Alabaster (Fair) - Cool Undertone",
+    "clothing_styles": [
+        {
+            "item": "Bright lehengas with silk textures",
+            "fabric": "Silk",
+            "texture": "Smooth, Lustrous",
+            "color": "Vibrant red with golden embroidery",
+            "gradient": "Red fading into gold",
+            "traditional_aspect": "Lehengas are the traditional attire worn by brides during weddings",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733644994/output_ue1yjq.jpg "
+        },
+        {
+            "item": "Georgette sarees with floral motifs",
+            "fabric": "Georgette",
+            "texture": "Soft, Flowing",
+            "color": "Peach with floral embroidery",
+            "gradient": "Peach to soft pink gradient",
+            "traditional_aspect": "Georgette sarees are worn for formal and festive occasions, providing elegance with a light flow",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645042/output_jrw2iz.jpg"
+        },
+        {
+            "item": "Embroidered raw silk lehengas",
+            "fabric": "Raw silk",
+            "texture": "Lustrous, Rich",
+            "color": "Deep maroon, Gold",
+            "gradient": "Gold gradient from the base to the border",
+            "traditional_aspect": "Raw silk lehengas with intricate embroidery are worn during weddings, signifying opulence and grace",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645083/output_urbblm.jpg"
+        },
+        {
+            "item": "Chiffon sarees with mirror work",
+            "fabric": "Chiffon, Mirror work",
+            "texture": "Flowing, Reflective",
+            "color": "Soft gold base with mirror work",
+            "gradient": "Soft gradient from light gold to ivory",
+            "traditional_aspect": "Mirror work is popular in Rajasthan and Gujarat, especially in festive and wedding attire",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645138/output_asjzq4.jpg"
+        },
+        {
+            "item": "Taffeta silk sarees",
+            "fabric": "Taffeta silk",
+            "texture": "Crisp, Shiny",
+            "color": "Vibrant red with gold borders",
+            "gradient": "Deep red fading into a rich gold",
+            "traditional_aspect": "Taffeta silk sarees are known for their luxurious appearance and are worn at formal weddings",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645238/output_gx9nhg.jpg"
+        },
+        {
+            "item": "Kanjeevaram silk sarees",
+            "fabric": "Kanjeevaram silk",
+            "texture": "Rich, Smooth",
+            "color": "Deep blue, Gold",
+            "gradient": "Rich gradient from deep blue to gold",
+            "traditional_aspect": "Kanjeevaram silk sarees are traditional attire from Tamil Nadu, often worn during festivals and ceremonies",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645358/output_hwoicg.jpg"
+        },
+        {
+            "item": "Embroidered cotton salwar kameez",
+            "fabric": "Cotton",
+            "texture": "Soft, Breathable",
+            "color": "Light green, Pastel pink",
+            "gradient": "Gentle gradient from light green to pastel pink",
+            "traditional_aspect": "Embroidered salwar kameez are popular for casual gatherings and everyday wear",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645507/output_oilao6.jpg "
+        },
+        {
+            "item": "Woven Maheshwari sarees",
+            "fabric": "Maheshwari",
+            "texture": "Soft, Smooth",
+            "color": "Earth tones, Soft grays",
+            "gradient": "Natural gradient from earth tones to soft grays",
+            "traditional_aspect": "Maheshwari sarees are traditional attire from Madhya Pradesh, often worn during festivals and ceremonies",
+            "img-url": "https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645576/output_qbobpx.jpg "
+        },
+        {
+            "item": "Brocade lehengas",
+            "fabric": "Brocade",
+            "texture": "Rich, Luxurious",
+            "color": "Deep red, Gold",
+            "gradient": "Rich gradient from deep red to gold",
+            "traditional_aspect": "Brocade lehengas are formal, royal attire worn for special occasions",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645624/output_gaslgl.jpg"
+        },
+        {
+            "item": "Chanderi silk sarees",
+            "fabric": "Chanderi silk",
+            "texture": "Soft, Smooth",
+            "color": "Light beige, Soft peach",
+            "gradient": "Gentle gradient from light beige to soft peach",
+            "traditional_aspect": "Chanderi silk is a traditional fabric from Madhya Pradesh, often worn during festivals and ceremonies",
+            "img-url": " https://res.cloudinary.com/dzri7hbaj/image/upload/v1733645833/output_lp2ksj.jpg "
+        }
+    ]
+}
